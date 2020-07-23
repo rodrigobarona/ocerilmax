@@ -1,0 +1,122 @@
+{
+    "footer": {
+        "type": "footer",
+        "links": [
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "https://www.stackbit.com",
+                "label": "Made with Stackbit"
+            }
+        ],
+        "content": "&copy; Stackbit. All rights reserved.",
+        "subscribe_title": "Subscribe",
+        "subscribe_content": "Stay up to date with our latest developments.",
+        "social_links": [
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "https://twitter.com/",
+                "label": "Twitter"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "https://www.instagram.com/",
+                "label": "Instagram"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "https://www.linkedin.com/",
+                "label": "LinkedIn"
+            }
+        ],
+        "has_subscribe": true,
+        "has_social": true,
+        "social_title": "Community",
+        "nav_title": "Company",
+        "nav_links": [
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/about",
+                "label": "About Us"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/blog",
+                "label": "Blog"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "signup",
+                "label": "Sign Up"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/contact",
+                "label": "Contact"
+            }
+        ],
+        "has_nav": true,
+        "tagline": "SaaS theme by Stackbit",
+        "logo_img": "https://www.datocms-assets.com/31873/1595514215-logoalt.png"
+    },
+    "palette": "blue",
+    "header": {
+        "nav_links": [
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/",
+                "label": "Home"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/features",
+                "label": "Features"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/pricing",
+                "label": "Pricing"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": false,
+                "url": "/style-guide",
+                "label": "Style Guide"
+            },
+            {
+                "type": "action",
+                "new_window": true,
+                "primary": true,
+                "url": "/signup",
+                "label": "Sign Up"
+            }
+        ],
+        "type": "header",
+        "logo_img": "https://www.datocms-assets.com/31873/1595514215-logo.png",
+        "has_nav": true,
+        "title": "Azimuth"
+    },
+    "title": "Stackbit Azimuth Theme"
+}
