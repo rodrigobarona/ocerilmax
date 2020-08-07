@@ -3,7 +3,7 @@
  * ----------------------------------------------------------------------------
  */
 .block-title {
-  font-size: 2.44444rem;
+  font-size: 1.44444rem;
   margin: 0 0 1.33333rem;
 
   &:last-child {
@@ -11,7 +11,7 @@
   }
 }
 
-.block-header {
+.block-content {
   margin-bottom: 2rem;
   text-align: center;
 
@@ -19,10 +19,67 @@
     font-size: 1.66667rem;
     margin: 0 0 0.25rem;
   }
+
+  .block-img {
+    max-width: 280px;
+    margin: auto;
+    width: 72.5%;
+
+    &.desktop {
+      display: none;
+    }
+    &.mobile {
+      display: block;
+    }
+  }
 }
 
 .block-preview {
   margin-bottom: 1.66667rem;
+}
+
+.hero-block {
+  &.outer{
+    padding: 2em;
+    position: relative;
+  }
+
+  .inner {
+    margin-top: -2rem;
+    padding: 0;
+  }
+  .grid {
+    .block-preview {
+      width: 30%;
+      position: absolute;
+      bottom: 0;
+      margin: 0;
+      left: 50%;
+      transform: translateX(-50%);
+      max-width: 242px;
+    }
+    .block-content {
+      margin-top: 2rem;
+      color: #96A800;
+      text-align: center;
+
+      .block-title {
+        margin: 0;
+      }
+
+      .block-copy {
+        font-size: 0.8em;
+        width: 75%;
+        text-align: center;
+        margin: auto;
+        line-height: 1.2em;
+
+        p {
+          margin: 0 0 1.2em;
+        }
+      }
+    }
+  }
 }
 
 .block-buttons {
@@ -50,6 +107,27 @@
 
   .underline:after {
     display: none;
+  }
+}
+
+@media only screen and (min-width: 380px) {
+  .hero-block .grid .block-preview {
+    width: 28%;
+    left: 70%;
+    transform: translateX(-20%);
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  .hero-block .grid .block-preview {
+    width: 25%;
+    transform: translateX(-10%);
+  }
+}
+
+@media only screen and (min-width: 640px) {
+  .hero-block .grid .block-preview {
+    width: 22.5%;
   }
 }
 
@@ -125,6 +203,33 @@
     .block-preview {
       padding-left: 68px;
       padding-right: 0;
+    }
+  }
+  
+  .hero-block {
+    .grid {
+      .block-content {
+        color: white;
+        text-align: left;
+        margin-top: 4rem;
+
+        .block-img {
+          margin: 0 0 0.5rem;
+          width: 27%;
+
+          &.desktop {
+            display: block;
+          }
+          &.mobile {
+            display: none;
+          }
+        }
+        .block-copy {
+          width: 27%;
+          margin: 0;
+          text-align: left;
+        }
+      }
     }
   }
 }
@@ -542,9 +647,10 @@
   }
 
   &.bg-accent {
-    background: _palette(accent);
-    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    // background: _palette(accent);
+    // background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
+    // background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    background: white url(https://www.datocms-assets.com/31873/1596730418-bghero.jpg) no-repeat 50%;
     color: #fff;
 
     .block-title {

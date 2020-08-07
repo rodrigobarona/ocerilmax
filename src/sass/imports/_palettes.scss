@@ -77,6 +77,9 @@
       background: _palette(accent-purple);
       background: -webkit-linear-gradient(left,_palette(accent-purple), _palette(accent-purple-alt));
       background: linear-gradient(to right,_palette(accent-purple), _palette(accent-purple-alt));
+      background: url(https://www.datocms-assets.com/31873/1596730418-bghero.jpg) no-repeat 50%;
+      height: 500px;
+      box-sizing: border-box;
     }
   }
 }

@@ -1,18 +1,19 @@
 ---
 template: landing
 sections:
-  - image: 'https://www.datocms-assets.com/31873/1595514214-hero.png'
+  - image: 'https://www.datocms-assets.com/31873/1596730342-hero.png'
     actions:
       - type: action
-        new_window: true
+        new_window: false
         primary: false
-        url: /features
-        label: Learn More
+        url: /#oquee
+        label: Saber mais
     type: section_hero
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site. 
-    title: Ocerilmax
+    content: |-
+      Excesso de cera nos ouvidos<br/>
+      Dor de ouvidos<br/>
+      Limpeza de ouvidos
+    title: Spray Auricular
     section_id: hero
   - type: section_reviews
     reviews:

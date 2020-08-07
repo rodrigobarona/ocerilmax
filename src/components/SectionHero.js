@@ -20,6 +20,16 @@ export default class SectionHero extends React.Component {
                     {_.get(section, 'title', null) && (
                     <h2 className="block-title">{_.get(section, 'title', null)}</h2>
                     )}
+                    {_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img', null) && (
+                      <div className="block-img desktop">
+                        <img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.footer.logo_img', null))} alt="Logo" />
+                      </div>
+                    )}
+                    {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) && (
+                      <div className="block-img mobile">
+                        <img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt="Logo" />
+                      </div>
+                    )}
                     <div className="block-copy">
                       {markdownify(_.get(section, 'content', null))}
                     </div>

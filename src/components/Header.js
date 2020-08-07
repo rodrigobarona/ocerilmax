@@ -26,7 +26,7 @@ export default class Header extends React.Component {
                   {(_.get(this.props, 'pageContext.site.siteMetadata.header.nav_links', null) && _.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null)) && (<React.Fragment>
                   <nav id="main-navigation" className="site-navigation" aria-label="Main Navigation">
                     <div className="site-nav-inside">
-                      <button id="menu-close" className="menu-toggle"><span className="screen-reader-text">Open Menu</span><span
+                      <button id="menu-close" className="menu-toggle"><span className="screen-reader-text">Abrir Menu</span><span
                           className="icon-close" aria-hidden="true" /></button>
                       <ul className="menu">
                         {_.map(_.get(this.props, 'pageContext.site.siteMetadata.header.nav_links', null), (action, action_idx) => {
@@ -43,7 +43,7 @@ export default class Header extends React.Component {
                       </ul>
                     </div>
                   </nav>
-                  <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Close Menu</span><span className="icon-menu"
+                  <button id="menu-open" className="menu-toggle"><span className="screen-reader-text">Fechar Menu</span><span className="icon-menu"
                       aria-hidden="true" /></button>
                   </React.Fragment>)}
                 </div>

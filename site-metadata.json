@@ -72,51 +72,44 @@
         ],
         "has_nav": true,
         "tagline": "SaaS theme by Stackbit",
-        "logo_img": "https://www.datocms-assets.com/31873/1595514215-logoalt.png"
+        "logo_img": "https://www.datocms-assets.com/31873/1596722640-logoalt.png"
     },
     "palette": "blue",
     "header": {
         "nav_links": [
             {
                 "type": "action",
-                "new_window": true,
+                "new_window": false,
                 "primary": false,
-                "url": "/",
-                "label": "Home"
+                "url": "/#oquee",
+                "label": "O que é"
             },
             {
                 "type": "action",
-                "new_window": true,
+                "new_window": false,
                 "primary": false,
-                "url": "/features",
-                "label": "Features"
+                "url": "/#comousar",
+                "label": "Como Usar"
             },
             {
                 "type": "action",
-                "new_window": true,
+                "new_window": false,
                 "primary": false,
-                "url": "/pricing",
-                "label": "Pricing"
+                "url": "/#quandousar",
+                "label": "Quando Usar"
             },
             {
                 "type": "action",
-                "new_window": true,
+                "new_window": false,
                 "primary": false,
-                "url": "/style-guide",
-                "label": "Style Guide"
-            },
-            {
-                "type": "action",
-                "new_window": true,
-                "primary": true,
-                "url": "/signup",
-                "label": "Sign Up"
+                "url": "/#composicao",
+                "label": "Composição"
             }
         ],
         "type": "header",
-        "logo_img": "https://www.datocms-assets.com/31873/1595514215-logo.png",
+        "logo_img": "https://www.datocms-assets.com/31873/1596722594-logo.png",
         "has_nav": true,
-        "title": "Azimuth"
+        "title": "OCERILMAX"
     },
-    "title": "Stackbit Azimuth Theme"
+    "title": "Ocerilmax"
 }
