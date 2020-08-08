@@ -15,6 +15,45 @@ sections:
       Limpeza de ouvidos
     title: Spray Auricular
     section_id: hero
+  - type: section_features
+    features:
+      - image: 'https://www.datocms-assets.com/31873/1596890015-prod01.png'
+        type: feature_item
+        actions:
+          - type: action
+            new_window: false
+            primary: false
+            url: /#
+            label: Sem água
+          - type: action
+            new_window: false
+            primary: false
+            url: /#
+            label: Sem álcool
+          - type: action
+            new_window: false
+            primary: false
+            url: /#
+            label: Sem Conservantes
+        content: >-
+          * Dispositivo Médico de Classe I destinado a auxiliar o tratamento da
+          otite
+
+          * Hidrata e acalma a pele do canal auditivo 
+
+          * Amolece a cera residual do ouvido e evita o seu endurecimento
+
+          * Alivia o inchaço do canal auditivo e possui propriedades
+          adstringentes
+
+          * Cria uma barreira de proteção contra influências ambientais
+          prejudiciais
+
+          * Ajuda a manter a higiene adequada e a humidade natural dos ouvidos
+        title: O que é Ocerilmax
+    background: white
+    title: O que é Ocerilmax
+    section_id: oquee
   - type: section_reviews
     reviews:
       - content: >-
@@ -93,15 +132,5 @@ sections:
     background: gray
     title: Melhoramentos
     section_id: features
-  - type: section_cta
-    actions:
-      - type: action
-        new_window: true
-        primary: false
-        url: /signup
-        label: Get Started
-    subtitle: This is an optional description for the call to action block.
-    title: This Is Call To Action Block!
-    section_id: call-to-action
 title: Home
 ---

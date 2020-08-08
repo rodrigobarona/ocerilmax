@@ -6,11 +6,11 @@
                 "type": "action",
                 "new_window": true,
                 "primary": false,
-                "url": "https://www.stackbit.com",
-                "label": "Made with Stackbit"
+                "url": "https://www.menarini.com/",
+                "label": "Menarini Group"
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved.",
+        "content": "&copy; 2020 Menarini Portugal",
         "subscribe_title": "Subscribe",
         "subscribe_content": "Stay up to date with our latest developments.",
         "social_links": [
@@ -36,42 +36,35 @@
                 "label": "LinkedIn"
             }
         ],
-        "has_subscribe": true,
-        "has_social": true,
+        "has_subscribe": false,
+        "has_social": false,
         "social_title": "Community",
-        "nav_title": "Company",
+        "nav_title": "Informação Legal",
         "nav_links": [
             {
                 "type": "action",
                 "new_window": true,
                 "primary": false,
-                "url": "/about",
-                "label": "About Us"
+                "url": "/#",
+                "label": "Política de Privacidade"
             },
             {
                 "type": "action",
                 "new_window": true,
                 "primary": false,
-                "url": "/blog",
-                "label": "Blog"
+                "url": "/#",
+                "label": "Termos e Condições"
             },
             {
                 "type": "action",
                 "new_window": true,
                 "primary": false,
-                "url": "signup",
-                "label": "Sign Up"
-            },
-            {
-                "type": "action",
-                "new_window": true,
-                "primary": false,
-                "url": "/contact",
-                "label": "Contact"
+                "url": "/#",
+                "label": "Política de Cookies"
             }
         ],
         "has_nav": true,
-        "tagline": "SaaS theme by Stackbit",
+        "tagline": "A. MENARINI PORTUGAL",
         "logo_img": "https://www.datocms-assets.com/31873/1596722640-logoalt.png"
     },
     "palette": "blue",

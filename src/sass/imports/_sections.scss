@@ -60,7 +60,7 @@
     }
     .block-content {
       margin-top: 2rem;
-      color: #96A800;
+      color: _palette(accent-green);
       text-align: center;
 
       .block-title {
@@ -634,6 +634,50 @@
     }
   }
 }
+
+/* #oquee */
+#oquee {
+  .block-header {
+    display: none;
+  }
+  .block-content {
+    .block-title {
+      color: _palette(accent-green);
+    }
+    .block-copy {
+      font-size: 0.8em;
+
+      ul {
+        list-style-position: inside;
+        padding: 0;
+      }
+    }
+    .button.secondary {
+      background: _palette(accent-green);
+      border: none;
+      border-radius: 16px;
+      font-size: 0.75em;
+      color: white;
+      line-height: 1;
+      padding: 0.5em 1rem;
+      cursor: default;
+      pointer-events: none;
+      text-decoration: none;
+    }
+  }
+}
+@media only screen and (min-width: 801px) {
+  #oquee {
+    .block-preview {
+      -webkit-flex: 4;
+      -ms-flex: 4;
+      flex: 4;
+      padding: 0;
+      text-align: center;
+    }
+  }
+}
+/* end #oquee */
 
 .block {
   &.bg-white {
