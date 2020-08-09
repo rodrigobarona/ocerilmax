@@ -54,6 +54,26 @@ sections:
     background: white
     title: O que é Ocerilmax
     section_id: oquee
+  - type: section_cta
+    actions:
+      - type: action
+        new_window: false
+        primary: false
+        url: /#
+        label: Cria
+      - type: action
+        new_window: false
+        primary: false
+        url: /#
+        label: Previne
+      - type: action
+        new_window: false
+        primary: false
+        url: /#
+        label: Auxilia
+    subtitle: Higiene e&nbsp;Proteção Diárias
+    title: Higiene e Proteção Diárias
+    section_id: cta_HPD
   - type: section_reviews
     reviews:
       - content: >-

@@ -711,3 +711,190 @@
     padding-top: 0;
   }
 }
+
+/* #cta_HPD */
+.block.bg-accent .cta_img_01,
+.block.bg-accent .cta_img_02 {
+  display: none;
+}
+#cta_HPD {
+  &.block {
+    &.bg-accent {
+      position: relative;
+      background: white url(https://www.datocms-assets.com/31873/1596966821-bgcta.png) no-repeat 50% 0;
+      height: 536px;
+      
+      .block-content {
+        margin-bottom: 1rem;
+    
+        .block-title {
+          display: none;
+        }
+        .block-subtitle {
+          color: _palette(accent-red);
+          max-width: 300px;
+          font-weight: 700;
+          line-height: 1;
+          margin: 0 auto;
+          font-size: 1.4rem;
+        }
+      }
+      .cta_img_01,
+      .cta_img_02 {
+        display: block;
+        width: 30%;
+        margin: -25px auto 0;
+      }
+      .cta_img_01 {
+        max-width: 240px;
+      }
+      .cta_img_02 {
+        max-width: 261px;
+      }
+      .grid {
+        position: relative;
+        width: 80%;
+        margin: 0 auto;
+        box-sizing: border-box;
+      }
+      .block-buttons {
+        a.button.white.large {
+          color: transparent;
+          border: none;
+          box-shadow: none;
+          pointer-events: none;
+          background-repeat: no-repeat;
+          background-size: contain;
+          background-color: transparent;
+          height: 68px;
+    
+          &:nth-child(1) {
+            background-image: url(https://www.datocms-assets.com/31873/1596967598-btncta01.png);
+            max-width: 132px;
+            width: 28%;
+          }
+          &:nth-child(2) {
+            background-image: url(https://www.datocms-assets.com/31873/1596967601-btncta02.png);
+            max-width: 126px;
+            width: 25%;
+          }
+          &:nth-child(3) {            
+            background-image: url(https://www.datocms-assets.com/31873/1596967604-btncta03.png);
+            max-width: 139px;
+            width: 29%;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 480px) {
+  #cta_HPD {
+    &.block {
+      &.bg-accent {
+
+        .cta_img_01,
+        .cta_img_02 {
+          width: 22.5%;
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 640px) {
+  #cta_HPD {
+    &.block {
+      &.bg-accent {
+        height: 200px;
+
+        .inner-large {
+          position: absolute;
+          top: 50%;
+          left: 50%;
+          width: 90%;
+          transform: translate(-50%,-50%);
+          max-width: 1140px;
+        }
+        .cta_img_01,
+        .cta_img_02 {
+          width: 17.5%;
+          display: inline-block;
+          margin: -20px 0 0 0;
+          vertical-align: middle;
+        }
+        .grid {
+          display: inline-block;
+          width: 65%;
+          margin: 45px auto 0;
+          vertical-align: middle;
+          padding: 0 2%;
+        }
+        .block-content {
+          margin-bottom: 2rem;
+
+          .block-subtitle {
+            font-size: 1.5rem;
+            max-width: 230px;
+            font-weight: 700;
+            margin: 0;
+            text-align: left;
+          }
+        }
+        .block-buttons {
+          padding: 0 2%;
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width: 741px) {
+  #cta_HPD {
+    &.block {
+      &.bg-accent {
+        height: 236px;
+
+        .grid {
+          width: 70%;
+        }
+        .cta_img_01,
+        .cta_img_02 {
+          width: 14.5%;
+          margin: -57px 0 0 0;
+        }
+        .block-content {
+
+          .block-subtitle {
+            font-size: 2rem;
+          }
+        }
+      }
+    }
+  }
+}
+
+@media only screen and (min-width: 991px) {
+  #cta_HPD {
+    &.block {
+      &.bg-accent {
+        height: 370px;
+
+        .grid {
+          width: 60%;
+          margin: 35px auto 0;
+        }
+        .cta_img_01 {
+          width: 17.5%;
+          margin: -39px 0 0 0;
+        }
+        .cta_img_02 {
+          width: 21.5%;
+          margin: -39px 0 0 0;
+        }
+      }
+    }
+  }
+}
+
+/* end #cta_HPD */

@@ -10,6 +10,9 @@ export default class SectionCta extends React.Component {
         return (
             <section id={_.get(section, 'section_id', null)} className="block cta-block bg-accent outer">
               <div className="inner-large">
+                <div className="cta_img_01">
+                  <img src="https://www.datocms-assets.com/31873/1596966932-ctaimg01.png" alt="" />
+                </div>
                 <div className="grid">
                   <div className="cell block-content">
                     {_.get(section, 'title', null) && (
@@ -28,6 +31,9 @@ export default class SectionCta extends React.Component {
                     ))}
                   </div>
                   )}
+                </div>
+                <div className="cta_img_02">
+                  <img src="https://www.datocms-assets.com/31873/1596966935-ctaimg02.png" alt="" />
                 </div>
               </div>
             </section>
