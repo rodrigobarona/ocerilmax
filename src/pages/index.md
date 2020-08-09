@@ -74,6 +74,39 @@ sections:
     subtitle: Higiene e&nbsp;Proteção Diárias
     title: Higiene e Proteção Diárias
     section_id: cta_HPD
+  - type: section_features
+    features:
+      - image: 'https://www.datocms-assets.com/31873/1596992630-prod02.png'
+        type: feature_item
+        actions:
+          - type: action
+            new_window: false
+            primary: false
+            url: /#
+            label: 'Crianças 2-12 anos:'
+          - type: action
+            new_window: false
+            primary: false
+            url: /#
+            label: 'Crianças >12 anos e Adultos:'
+        content: >-
+          ### Como usar<br/>o spray auricular
+
+          1. &nbsp;**Agitar bem durante 5 segundos** antes de utilizar a fim de
+          obter uma suspensão homogénea
+
+          2. &nbsp;Ao aplicar o spray, **puxar suavemente a aurícula para cima e
+          para trás**
+
+          3. &nbsp;**Colocar a ponta do bucal gentilmente no ouvido**, segurar
+          na posição vertical e pressionar a bomba
+
+          4. &nbsp;Após a aplicação, **massajar a parte frontal do canal
+          auditivo** (tragus) do lado externo
+        title: Como usar o spray auricular
+    background: white
+    title: Como usar
+    section_id: comousar
   - type: section_reviews
     reviews:
       - content: >-
@@ -105,52 +138,5 @@ sections:
     background: gray
     section_id: recent-posts
     title: Latest Posts
-  - type: section_features
-    subtitle: >-
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
-      quis lorem malesuada luctus.
-    features:
-      - image: 'https://www.datocms-assets.com/31873/1595514215-feature1.png'
-        type: feature_item
-        actions:
-          - type: action
-            new_window: true
-            primary: false
-            url: /features
-            label: Learn More
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
-        title: The Best Feature of Your Services
-      - image: 'https://www.datocms-assets.com/31873/1595514214-feature2.png'
-        type: feature_item
-        actions:
-          - type: action
-            new_window: true
-            primary: false
-            url: /features
-            label: Learn More
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
-        title: Awesome Feature of Your Services
-      - image: 'https://www.datocms-assets.com/31873/1595514214-feature3.png'
-        type: feature_item
-        actions:
-          - type: action
-            new_window: true
-            primary: false
-            url: /features
-            label: Learn More
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
-        title: Cool Feature of Your Services
-    background: gray
-    title: Melhoramentos
-    section_id: features
 title: Home
 ---

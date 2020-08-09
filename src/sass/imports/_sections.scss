@@ -737,6 +737,7 @@
           line-height: 1;
           margin: 0 auto;
           font-size: 1.4rem;
+          text-transform: uppercase;
         }
       }
       .cta_img_01,
@@ -840,6 +841,7 @@
             font-weight: 700;
             margin: 0;
             text-align: left;
+            padding: 0 2%;
           }
         }
         .block-buttons {
@@ -890,11 +892,114 @@
         }
         .cta_img_02 {
           width: 21.5%;
-          margin: -39px 0 0 0;
+          margin: -7px 0 0 0;
         }
       }
     }
   }
 }
 
-/* end #cta_HPD */
+/* #comousar */
+
+#comousar {
+  &.block {
+    &.features-block {
+      
+      h2,
+      h3 {
+        &.block-title {
+          display: none;
+        }
+      }
+
+      .grid {
+        -webkit-flex-direction: row;
+        -ms-flex-direction: row;
+        flex-direction: row;
+      }
+      .block-preview {
+        -webkit-flex: 5;
+        -ms-flex: 5;
+        flex: 5;
+      }
+      .block-content {
+        -webkit-flex: 7;
+        -ms-flex: 7;
+        flex: 7;            
+      
+        .block-copy {
+          h3 {
+            color: _palette(accent-green);
+          }
+          ol {
+            list-style-position: inside;
+            padding: 0;
+          }
+          li {
+            font-size: 0.8em;          
+            background-repeat: no-repeat;
+            padding: 0 0 0 4rem;
+            margin-bottom: 0.5rem;
+            line-height: 1.1;
+            min-height: 61px;
+
+            &:nth-child(1){
+              background-image: url(https://www.datocms-assets.com/31873/1596992621-iconcomousar01.png);
+            }
+            &:nth-child(2){
+              background-image: url(https://www.datocms-assets.com/31873/1596992623-iconcomousar02.png);
+            }
+            &:nth-child(3){
+              background-image: url(https://www.datocms-assets.com/31873/1596992626-iconcomousar03.png);
+            }
+            &:nth-child(4){
+              background-image: url(https://www.datocms-assets.com/31873/1596992628-iconcomousar04.png);
+            }
+          }
+        }
+
+        .block-buttons {
+          a.button.secondary {
+            color: transparent;
+            border: none;
+            box-shadow: none;
+            pointer-events: none;
+            background-repeat: no-repeat;
+            background-size: contain;
+            background-color: transparent;
+            max-width: 216px;
+            height: 146px;
+
+            &:nth-child(1) {
+              background-image: url(https://www.datocms-assets.com/31873/1596992619-btncomousar02.png);
+            }
+            &:nth-child(2) {
+              background-image: url(https://www.datocms-assets.com/31873/1596992616-btncomousar01.png);
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width: 801px) {
+  #comousar {
+    &.block {
+      &.features-block {
+        .block-preview{
+          -webkit-flex: 5;
+          -ms-flex: 5;
+          flex: 5;
+          padding-left: 0;
+          padding-right: 68px;
+        }
+        .block-content{
+          -webkit-flex: 7;
+          -ms-flex: 7;
+          flex: 7;
+        }
+      }
+    }
+  }
+}
+
