@@ -110,33 +110,45 @@ sections:
   - type: section_reviews
     reviews:
       - content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Higiene regular, propensão para produção excessiva de cera e formação
+          do rolhão
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1595514215-review1.jpg'
-        author: John Doe
+        avatar: 'https://www.datocms-assets.com/31873/1597050580-iconquandousar01.png'
+        author: 'Higiene regular:'
+      - content: Auxilia o tratamento da otite no adulto e na criança
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597050611-iconquandousar02.png'
+        author: 'Otite:'
+      - content: Atividades na água durante a época balnear
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597050655-iconquandousar03.png'
+        author: 'Época Balnear:'
       - content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin, vel posuere justo laoreet.
+          Atividades desportivas extracurriculares e hobbies como natação, surf,
+          bodyboard, mergulho, entre outras
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1595514215-review2.jpg'
-        author: Jane Roe
+        avatar: 'https://www.datocms-assets.com/31873/1597050732-iconquandousar04.png'
+        author: 'Atividades Aquáticas:'
       - content: >-
-          Integer consectetur purus neque, ac porttitor enim convallis vitae.
-          Interdum et malesuada fames ac ante ipsum primis in faucibus.
+          Headphones para lazer/trabalho, aparelhos de audição (contribuem para
+          o aumento da produção de cera)
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1595514217-review3.jpg'
-        author: Richard Roe
+        avatar: 'https://www.datocms-assets.com/31873/1597050781-iconquandousar05.png'
+        author: 'Utilização de dispositivos auriculares:'
+      - content: 'Vento, frio, variações de temperatura, humidade'
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597050874-iconquandousar06.png'
+        author: 'Inverno e agressões externas:'
+      - content: 'Viajar de avião, desportos e passeios em altitude'
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597050917-iconquandousar07.png'
+        author: 'Desconforto no dia-a-dia:'
+      - content: Provocada por excesso de cera ou endurecimento de cera
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597050952-iconquandousar08.png'
+        author: 'Diminuição da audição:'
     background: white
-    subtitle: >-
-      Aliquam malesuada ligula eget est fringilla blandit. Integer finibus
-      semper libero id sodales. 
-    section_id: reviews
-    title: Testimonials
-  - type: section_posts
-    background: gray
-    section_id: recent-posts
-    title: Latest Posts
+    section_id: quandousar
+    title: Quando devo aplicar Ocerilmax nos ouvidos
 title: Home
 ---
