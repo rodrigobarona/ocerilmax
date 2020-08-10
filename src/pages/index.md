@@ -150,5 +150,43 @@ sections:
     background: white
     section_id: quandousar
     title: Quando devo aplicar Ocerilmax nos ouvidos
+  - type: section_reviews
+    reviews:
+      - content: antisséptico
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057543-iconcomposicao01.png'
+        author: Tea tree
+      - content: antifúngico
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057583-iconcomposicao02.png'
+        author: Hortelã-pimenta
+      - content: antibacteriano e antifúngico
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057620-iconcomposicao03.png'
+        author: Limão
+      - content: antibacteriano
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057650-iconcomposicao04.png'
+        author: Lavanda
+      - content: analgésico e imunoestimulante
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057683-iconcomposicao05.png'
+        author: Gerânio
+      - content: anti-inflamatório e adstringente
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057730-iconcomposicao06.png'
+        author: Oregão
+      - content: analgésico e estimulante da circulação
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057754-iconcomposicao07.png'
+        author: Alecrim
+      - content: anti-inflamatório
+        type: review_item
+        avatar: 'https://www.datocms-assets.com/31873/1597057777-iconcomposicao08.png'
+        author: Extrato de Goldenseal
+    background: white
+    subtitle: Óleos
+    section_id: composicao
+    title: Composição
 title: Home
 ---
