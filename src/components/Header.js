@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 import {Link, withPrefix, classNames} from '../utils';
 
@@ -34,9 +35,10 @@ export default class Header extends React.Component {
                             let actionUrl = _.trim(_.get(action, 'url', null), '/');
                             return (
                               <li key={action_idx} className={classNames('menu-item', {'current-menu-item': pageUrl === actionUrl, 'menu-button': _.get(action, 'primary', null)})}>
-                                <Link to={withPrefix(_.get(action, 'url', null))}
-                                   {...(_.get(action, 'new_window', null) ? ({target: '_blank', rel: 'noopener'}) : null)}
-                                   className={classNames({'button': _.get(action, 'primary', null)})}>{_.get(action, 'label', null)}</Link>
+                                {/*<Link to={withPrefix(_.get(action, 'url', null))}*/}
+                                <AnchorLink to={withPrefix(_.get(action, 'url'))} 
+                                   {...(_.get(action, 'withPrefix', null) ? ({target: '_blank', rel: 'noopener'}) : null)}
+                                   className={classNames({'button': _.get(action, 'primary', null)})}>{_.get(action, 'label', null)}</AnchorLink>
                               </li>
                             )
                         })}
