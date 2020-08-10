@@ -1,5 +1,6 @@
 {
     "footer": {
+        "tagline": "<div>Lubefar, uma empresa do Grupo Menarini<br />Quinta da Fonte, Edif&iacute;cio D. Manuel I - Piso 2-A <br />Rua dos Malh&otilde;es, 1<br />2770-071 Pa&ccedil;o de Arcos <br />Telf. <a href=\"tel:+351210935500\">(+351) 210 935 500</a></div>",
         "type": "footer",
         "links": [
             {
@@ -64,8 +65,7 @@
             }
         ],
         "has_nav": true,
-        "tagline": "Lubefar, uma empresa do Grupo Menarini Quinta da Fonte, Edifício D. Manuel I - Piso 2-A Rua dos Malhões,1 2770-071 Paço de Arcos Telf. (+351) 210 935 500",
-        "logo_img": "https://www.datocms-assets.com/31873/1596722640-logoalt.png"
+        "logo_img": "https://www.datocms-assets.com/31873/1597066671-menarini-extenso.png"
     },
     "palette": "blue",
     "header": {
