@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 import { AnchorLink } from "gatsby-plugin-anchor-links";
 
-import {Link, withPrefix} from '../utils';
+import {withPrefix} from '../utils';
 
 export default class ActionLink extends React.Component {
     render() {

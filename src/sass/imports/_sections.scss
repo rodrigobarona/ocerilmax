@@ -655,7 +655,9 @@
     // background: _palette(accent);
     // background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
     // background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
-    background: white url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg) no-repeat 54% 50%;
+    background-image: url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg);
+    background-repeat: no-repeat;
+    background-position: 54% 50%;
     color: #fff;
 
     .block-title {
@@ -673,9 +675,27 @@
   }
 }
 
+@media only screen and (min-width: 480px) {
+  #hero.block.bg-accent {
+    background-position: 55% 50%;
+  }
+}
+
+@media only screen and (min-width: 640px) {
+  #hero.block.bg-accent {
+    background-position: 56% 50%;
+  }
+}
+
+@media only screen and (min-width: 741px) {
+  #hero.block.bg-accent {
+    background-position: 57% 50%;
+  }
+}
+
 @media only screen and (min-width: 801px) {
   #hero.block.bg-accent {
-    background: white url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg) no-repeat 50%;
+    background-position: 50%;
   }
 }
 
@@ -1016,14 +1036,16 @@
             background-repeat: no-repeat;
             background-size: contain;
             background-color: transparent;
-            max-width: 216px;
+            width: 216px;
             height: 146px;
+            vertical-align: top;
 
             &:nth-child(1) {
-              background-image: url(https://www.datocms-assets.com/31873/1596992619-btncomousar02.png);
-            }
-            &:nth-child(2) {
               background-image: url(https://www.datocms-assets.com/31873/1596992616-btncomousar01.png);
+            }
+
+            &:nth-child(2) {
+              background-image: url(https://www.datocms-assets.com/31873/1596992619-btncomousar02.png);
             }
           }
         }
@@ -1101,7 +1123,8 @@
           border-radius: 0;
         }
         .review-author {
-          color: white;          
+          color: white;
+          text-align: center;          
         }
       }
     }

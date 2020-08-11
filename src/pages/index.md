@@ -114,39 +114,39 @@ sections:
           do rolhão
         type: review_item
         avatar: 'https://www.datocms-assets.com/31873/1597050580-iconquandousar01.png'
-        author: 'Higiene regular:'
+        author: Higiene regular
       - content: Auxilia o tratamento da otite no adulto e na criança
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1597050611-iconquandousar02.png'
-        author: 'Otite:'
+        avatar: 'https://www.datocms-assets.com/31873/1597158458-iconquandousar02.png'
+        author: Otite
       - content: Atividades na água durante a época balnear
         type: review_item
         avatar: 'https://www.datocms-assets.com/31873/1597050655-iconquandousar03.png'
-        author: 'Época Balnear:'
+        author: Época Balnear
       - content: >-
           Atividades desportivas extracurriculares e hobbies como natação, surf,
           bodyboard, mergulho, entre outras
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1597050732-iconquandousar04.png'
-        author: 'Atividades Aquáticas:'
+        avatar: 'https://www.datocms-assets.com/31873/1597158511-iconquandousar04.png'
+        author: Atividades Aquáticas
       - content: >-
           Headphones para lazer/trabalho, aparelhos de audição (contribuem para
           o aumento da produção de cera)
         type: review_item
         avatar: 'https://www.datocms-assets.com/31873/1597050781-iconquandousar05.png'
-        author: 'Utilização de dispositivos auriculares:'
+        author: Utilização de dispositivos auriculares
       - content: 'Vento, frio, variações de temperatura, humidade'
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1597050874-iconquandousar06.png'
-        author: 'Inverno e agressões externas:'
+        avatar: 'https://www.datocms-assets.com/31873/1597158527-iconquandousar06.png'
+        author: Inverno e agressões externas
       - content: 'Viajar de avião, desportos e passeios em altitude'
         type: review_item
         avatar: 'https://www.datocms-assets.com/31873/1597050917-iconquandousar07.png'
-        author: 'Desconforto no dia-a-dia:'
+        author: Desconforto no dia-a-dia
       - content: Provocada por excesso de cera ou endurecimento de cera
         type: review_item
-        avatar: 'https://www.datocms-assets.com/31873/1597050952-iconquandousar08.png'
-        author: 'Diminuição da audição:'
+        avatar: 'https://www.datocms-assets.com/31873/1597158547-iconquandousar08.png'
+        author: Diminuição da audição
     background: white
     section_id: quandousar
     title: Quando devo aplicar Ocerilmax nos ouvidos
