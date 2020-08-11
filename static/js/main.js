@@ -24,7 +24,7 @@ var menuLinks = document.querySelectorAll("#main-navigation .menu a");
 for (var i = 0; i < menuLinks.length; i++) {
   menuLinks[i].addEventListener('click', function(e){
     document.body.classList.remove('menu--opened');
-    e.preventDefault();
+    //e.preventDefault();
   },false);
 }
 

@@ -60,7 +60,7 @@
                 "type": "action",
                 "new_window": true,
                 "primary": false,
-                "url": "/#",
+                "url": "/politica-de-cookies",
                 "label": "Política de Cookies"
             }
         ],
