@@ -1,5 +1,6 @@
 import React from 'react';
 import _ from 'lodash';
+import { AnchorLink } from "gatsby-plugin-anchor-links";
 
 import {Link, withPrefix} from '../utils';
 
@@ -8,9 +9,9 @@ export default class ActionLink extends React.Component {
         let action = _.get(this.props, 'action', null);
         let class_names = _.get(this.props, 'class_names', null);
         return (
-            <Link to={withPrefix(_.get(action, 'url', null))}
+            <AnchorLink to={withPrefix(_.get(action, 'url', null))}
                {...(_.get(action, 'new_window', null) ? ({target: '_blank', rel: 'noopener'}) : null)}
-               className={class_names}>{_.get(action, 'label', null)}</Link>
+               className={class_names}>{_.get(action, 'label', null)}</AnchorLink>
         );
     }
 }

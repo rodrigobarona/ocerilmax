@@ -22,6 +22,8 @@
   -ms-flex: 0 0 auto;
   -webkit-flex: 0 0 auto;
   flex: 0 0 auto;
+  width: 80%;
+  max-width: 220px;
 
   a {
     border: 0;
@@ -42,6 +44,15 @@
 
   img {
     max-height: 65px;
+  }
+}
+
+.site-header-inside {
+  .site-logo {
+
+    img {
+      width: 100%;
+    }
   }
 }
 

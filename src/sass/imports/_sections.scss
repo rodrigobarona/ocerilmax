@@ -24,6 +24,7 @@
     max-width: 280px;
     margin: auto;
     width: 72.5%;
+    padding: 0.5rem 0;
 
     &.desktop {
       display: none;
@@ -219,6 +220,10 @@
 
           &.desktop {
             display: block;
+
+            .st0 {
+              fill: white;
+            }
           }
           &.mobile {
             display: none;
@@ -635,6 +640,45 @@
   }
 }
 
+.block {
+  &.bg-white {
+    background: #fff;
+
+    .post-card-inside,
+    .review-inside,
+    .plan-inside {
+      box-shadow: 0 3px 10px 0 rgba(_palette(primary),.15);
+    }
+  }
+
+  &.bg-accent {
+    // background: _palette(accent);
+    // background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
+    // background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
+    background: white url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg) no-repeat 54% 50%;
+    color: #fff;
+
+    .block-title {
+      color: inherit;
+    }
+
+    .underline:after {
+      border-color: currentColor;
+    }
+  }
+
+  &.bg-white + &.bg-white,
+  &.bg-gray + &.bg-gray {
+    padding-top: 0;
+  }
+}
+
+@media only screen and (min-width: 801px) {
+  #hero.block.bg-accent {
+    background: white url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg) no-repeat 50%;
+  }
+}
+
 /* #oquee */
 #oquee {
   .block-header {
@@ -678,39 +722,6 @@
   }
 }
 /* end #oquee */
-
-.block {
-  &.bg-white {
-    background: #fff;
-
-    .post-card-inside,
-    .review-inside,
-    .plan-inside {
-      box-shadow: 0 3px 10px 0 rgba(_palette(primary),.15);
-    }
-  }
-
-  &.bg-accent {
-    // background: _palette(accent);
-    // background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    // background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
-    background: white url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg) no-repeat 50%;
-    color: #fff;
-
-    .block-title {
-      color: inherit;
-    }
-
-    .underline:after {
-      border-color: currentColor;
-    }
-  }
-
-  &.bg-white + &.bg-white,
-  &.bg-gray + &.bg-gray {
-    padding-top: 0;
-  }
-}
 
 /* #cta_HPD */
 .block.bg-accent .cta_img_01,

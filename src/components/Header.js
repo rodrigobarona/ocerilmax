@@ -13,9 +13,9 @@ export default class Header extends React.Component {
                   <div className="site-branding">
                     {_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null) && (
                     <p className="site-logo">
-                      <Link to={withPrefix('/')}>
+                      <AnchorLink to={withPrefix('/')}>
                         <img src={withPrefix(_.get(this.props, 'pageContext.site.siteMetadata.header.logo_img', null))} alt="Logo" />
-                      </Link>
+                      </AnchorLink>
                     </p>
                     )}
                     {((_.get(this.props, 'pageContext.frontmatter.template', null) === 'landing') || (_.get(this.props, 'pageContext.frontmatter.template', null) === 'blog')) ? (
@@ -35,7 +35,6 @@ export default class Header extends React.Component {
                             let actionUrl = _.trim(_.get(action, 'url', null), '/');
                             return (
                               <li key={action_idx} className={classNames('menu-item', {'current-menu-item': pageUrl === actionUrl, 'menu-button': _.get(action, 'primary', null)})}>
-                                {/*<Link to={withPrefix(_.get(action, 'url', null))}*/}
                                 <AnchorLink to={withPrefix(_.get(action, 'url'))} 
                                    {...(_.get(action, 'withPrefix', null) ? ({target: '_blank', rel: 'noopener'}) : null)}
                                    className={classNames({'button': _.get(action, 'primary', null)})}>{_.get(action, 'label', null)}</AnchorLink>
@@ -50,7 +49,7 @@ export default class Header extends React.Component {
                   </React.Fragment>)}
                 </div>
               </div>
-              <script src='//grmtech.net/r/ptd840cc5d906c3e9c84374c8919d2074e.js' async defer></script>
+              {/*<script src='//grmtech.net/r/ptd840cc5d906c3e9c84374c8919d2074e.js' async defer></script>*/}
             </header>
         );
     }
