@@ -44,16 +44,16 @@
         "nav_links": [
             {
                 "type": "action",
-                "new_window": true,
+                "new_window": false,
                 "primary": false,
-                "url": "/#",
+                "url": "/politica-de-privacidade/",
                 "label": "Política de Privacidade"
             },
             {
                 "type": "action",
-                "new_window": true,
+                "new_window": false,
                 "primary": false,
-                "url": "/#",
+                "url": "/termos-e-condicoes",
                 "label": "Termos e Condições"
             },
             {

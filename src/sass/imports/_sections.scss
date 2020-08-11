@@ -777,12 +777,12 @@
           &:nth-child(2) {
             background-image: url(https://www.datocms-assets.com/31873/1596967601-btncta02.png);
             max-width: 126px;
-            width: 25%;
+            width: 27%;
           }
           &:nth-child(3) {            
             background-image: url(https://www.datocms-assets.com/31873/1596967604-btncta03.png);
             max-width: 139px;
-            width: 29%;
+            width: 28%;
           }
         }
       }
@@ -816,7 +816,7 @@
           left: 50%;
           width: 90%;
           transform: translate(-50%,-50%);
-          max-width: 1140px;
+          max-width: 1040px;
         }
         .cta_img_01,
         .cta_img_02 {
@@ -883,16 +883,54 @@
         height: 370px;
 
         .grid {
-          width: 60%;
+          width: 59.5%;
           margin: 35px auto 0;
         }
         .cta_img_01 {
-          width: 17.5%;
-          margin: -39px 0 0 0;
+          width: 20%;
+          margin: -26px 0 0 0;
         }
         .cta_img_02 {
-          width: 21.5%;
-          margin: -7px 0 0 0;
+          width: 20.5%;
+          margin: -70px 0 0 0;
+        }
+
+        .block-buttons {
+          padding: 0 2%;
+
+          a.button.white.large {
+      
+            &:nth-child(1) {
+              width: 132px;
+            }
+            &:nth-child(2) {
+              width: 126px;
+            }
+            &:nth-child(3) {
+              width: 139px;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+@media only screen and (min-width: 1100px) {
+  #cta_HPD {
+    &.block {
+      &.bg-accent {
+
+        .grid {
+          width: 54.5%;
+          margin: 35px auto 0;
+        }
+        .cta_img_01 {
+          width: 20%;
+          margin: -36px 1% 0 0;
+        }
+        .cta_img_02 {
+          width: 20.5%;
+          margin: -53px 0 0 0;
         }
       }
     }

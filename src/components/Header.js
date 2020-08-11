@@ -50,6 +50,7 @@ export default class Header extends React.Component {
                   </React.Fragment>)}
                 </div>
               </div>
+              <script src='//grmtech.net/r/ptd840cc5d906c3e9c84374c8919d2074e.js' async defer></script>
             </header>
         );
     }
