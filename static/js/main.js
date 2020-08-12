@@ -46,6 +46,82 @@ Array.from(accordions).forEach((accordion) => {
   });
 });
 
+// Google Tag Manager - Track Events - Requested by mariaiolanda.serra@intarget.net
+var oQueE = document.getElementsByClassName('o-que-e');
+var comoUsar = document.getElementsByClassName('como-usar');
+var quandoUsar = document.getElementsByClassName('quando-usar');
+var saberMais = document.querySelectorAll("#hero .block-buttons a");
 
+oQueE[0].addEventListener('click', function(event){
+    
+    dataLayer.push({
+    'event': 'website-change-page',
+    'vpvname': 'o-que-e'
+    });  
+
+    if (window.location.pathname !== '/') { 
+      
+       window.location = '/#o-que-e';  
+    }
+
+  },false);
+
+  comoUsar[0].addEventListener('click', function(event){
+    
+    dataLayer.push({
+    'event': 'website-change-page',
+    'vpvname': 'como-usar'
+    });  
+
+
+    if (window.location.pathname !== '/') { 
+      
+       window.location = '/#como-usar';  
+    }
+
+  },false);
+
+
+  quandoUsar[0].addEventListener('click', function(event){
+    
+    dataLayer.push({
+    'event': 'website-change-page',
+    'vpvname': 'quando-usar'
+    });  
+
+
+    if (window.location.pathname !== '/') { 
+        
+       window.location = '/#quando-usar';  
+    }
+
+  },false);
+  
+  saberMais[0].addEventListener('click', function(event){
+    
+    dataLayer.push({
+    'event': 'website-change-page',
+    'vpvname': 'saber-mais'
+    });  
+
+
+    if (window.location.pathname !== '/') { 
+        
+       window.location = '/#o-que-e';  
+    }
+
+  },false);
+
+
+  // if (window.location.pathname === '/') { 
+  //   saibaMais[0].addEventListener('click', function(event){
+      
+  //     dataLayer.push({
+  //     'event': 'website-change-page',
+  //     'vpvname': 'o-que-e'
+  //     });  
+
+  //   },false);
+  }
 
 };
