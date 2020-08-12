@@ -46,4 +46,6 @@ Array.from(accordions).forEach((accordion) => {
   });
 });
 
+
+
 };

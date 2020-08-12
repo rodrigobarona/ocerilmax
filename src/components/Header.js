@@ -37,7 +37,7 @@ export default class Header extends React.Component {
                               <li key={action_idx} className={classNames('menu-item', {'current-menu-item': pageUrl === actionUrl, 'menu-button': _.get(action, 'primary', null)})}>
                                 <AnchorLink to={withPrefix(_.get(action, 'url'))} 
                                    {...(_.get(action, 'withPrefix', null) ? ({target: '_blank', rel: 'noopener'}) : null)}
-                                   className={classNames({'button': _.get(action, 'primary', null)})}>{_.get(action, 'label', null)}</AnchorLink>
+                                   className={classNames(_.get(action, 'css_style'),{'button': _.get(action, 'primary', null)})}>{_.get(action, 'label', null)}</AnchorLink>
                               </li>
                             )
                         })}
