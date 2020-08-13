@@ -18,7 +18,7 @@ exports.onRenderBody = function({ setHeadComponents, setPostBodyComponents }) {
             <script src={withPrefix('js/plugins.js')}/>
             <script src={withPrefix('js/init.js')}/>
             <script src={withPrefix('js/main.js')}/>
-            
+
         </React.Fragment>
     ]);
 

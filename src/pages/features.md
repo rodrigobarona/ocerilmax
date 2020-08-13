@@ -2,12 +2,14 @@
 template: landing
 sections:
   - actions:
-      - type: action
+      - css_style: object
+        type: action
         new_window: true
         primary: false
         url: /signup
         label: Free Trial
-      - type: action
+      - css_style: object
+        type: action
         new_window: true
         primary: false
         url: '#'
@@ -34,7 +36,8 @@ sections:
     title: The Best Features of Your Services
   - type: section_cta
     actions:
-      - type: action
+      - css_style: object
+        type: action
         new_window: true
         primary: false
         url: '#'

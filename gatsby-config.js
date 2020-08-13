@@ -54,6 +54,12 @@ module.exports = {
             }
         },
         {
+            resolve: 'gatsby-plugin-preconnect',
+            options: {
+              domains: ['https://cdn.cookielaw.org, https://www.googletagmanager.com, https://datocms-assets.com, https://s.ytimg.com'],
+            },
+        },
+        {
             resolve: "gatsby-plugin-anchor-links",
             options: {
               offset: -75

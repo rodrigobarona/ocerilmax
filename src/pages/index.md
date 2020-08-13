@@ -3,7 +3,8 @@ template: landing
 sections:
   - image: 'https://www.datocms-assets.com/31873/1596730342-hero.png'
     actions:
-      - type: action
+      - css_style: saber-mais
+        type: action
         new_window: false
         primary: false
         url: /#oquee
@@ -20,17 +21,20 @@ sections:
       - image: 'https://www.datocms-assets.com/31873/1596890015-prod01.png'
         type: feature_item
         actions:
-          - type: action
+          - css_style: object
+            type: action
             new_window: false
             primary: false
             url: /#
             label: Sem água
-          - type: action
+          - css_style: object
+            type: action
             new_window: false
             primary: false
             url: /#
             label: Sem álcool
-          - type: action
+          - css_style: object
+            type: action
             new_window: false
             primary: false
             url: /#
@@ -56,17 +60,20 @@ sections:
     section_id: oquee
   - type: section_cta
     actions:
-      - type: action
+      - css_style: object
+        type: action
         new_window: false
         primary: false
         url: /#
         label: Cria
-      - type: action
+      - css_style: object
+        type: action
         new_window: false
         primary: false
         url: /#
         label: Previne
-      - type: action
+      - css_style: object
+        type: action
         new_window: false
         primary: false
         url: /#
@@ -79,12 +86,14 @@ sections:
       - image: 'https://www.datocms-assets.com/31873/1596992630-prod02.png'
         type: feature_item
         actions:
-          - type: action
+          - css_style: object
+            type: action
             new_window: false
             primary: false
             url: /#
             label: 'Crianças 2-12 anos:'
-          - type: action
+          - css_style: object
+            type: action
             new_window: false
             primary: false
             url: /#

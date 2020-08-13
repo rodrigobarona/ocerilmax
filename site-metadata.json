@@ -4,6 +4,7 @@
         "type": "footer",
         "links": [
             {
+                "css_style": "object",
                 "type": "action",
                 "new_window": true,
                 "primary": false,
@@ -16,6 +17,7 @@
         "subscribe_content": "Stay up to date with our latest developments.",
         "social_links": [
             {
+                "css_style": "object",
                 "type": "action",
                 "new_window": true,
                 "primary": false,
@@ -23,6 +25,7 @@
                 "label": "Twitter"
             },
             {
+                "css_style": "object",
                 "type": "action",
                 "new_window": true,
                 "primary": false,
@@ -30,6 +33,7 @@
                 "label": "Instagram"
             },
             {
+                "css_style": "object",
                 "type": "action",
                 "new_window": true,
                 "primary": false,
@@ -50,6 +54,7 @@
                 "label": "Política de Privacidade"
             },
             {
+                "css_style": "object",
                 "type": "action",
                 "new_window": false,
                 "primary": false,
@@ -57,6 +62,7 @@
                 "label": "Termos e Condições"
             },
             {
+                "css_style": "object",
                 "type": "action",
                 "new_window": true,
                 "primary": false,
@@ -71,6 +77,7 @@
     "header": {
         "nav_links": [
             {
+                "css_style": "o-que-e",
                 "type": "action",
                 "new_window": false,
                 "primary": false,
@@ -78,6 +85,7 @@
                 "label": "O que é"
             },
             {
+                "css_style": "como-usar",
                 "type": "action",
                 "new_window": false,
                 "primary": false,
@@ -85,6 +93,7 @@
                 "label": "Como Usar"
             },
             {
+                "css_style": "quando-usar",
                 "type": "action",
                 "new_window": false,
                 "primary": false,
@@ -92,6 +101,7 @@
                 "label": "Quando Usar"
             },
             {
+                "css_style": "composicao",
                 "type": "action",
                 "new_window": false,
                 "primary": false,

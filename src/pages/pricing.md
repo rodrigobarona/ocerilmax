@@ -4,7 +4,8 @@ sections:
   - type: section_pricing
     pricing_plans:
       - actions:
-          - type: action
+          - css_style: object
+            type: action
             new_window: true
             primary: false
             url: /signup
@@ -19,7 +20,8 @@ sections:
         price: $5/m
         title: Basic
       - actions:
-          - type: action
+          - css_style: object
+            type: action
             new_window: true
             primary: false
             url: /signup
@@ -35,7 +37,8 @@ sections:
         price: $49/m
         title: Professional
       - actions:
-          - type: action
+          - css_style: object
+            type: action
             new_window: true
             primary: false
             url: /signup
