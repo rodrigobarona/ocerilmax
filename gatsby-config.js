@@ -34,7 +34,7 @@ module.exports = {
 
             // If true, add tracking code to head. Otherwise, tracking code is
             // added to the bottom of body.
-            head: false,
+            head: true,
           },
         },
         {
