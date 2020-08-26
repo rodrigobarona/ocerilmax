@@ -1,7 +1,8 @@
 ---
 template: landing
 sections:
-  - image: 'https://www.datocms-assets.com/31873/1596730342-hero.png'
+  - bgimage: 'https://www.datocms-assets.com/31873/1597070614-bghero.jpg'
+    image: 'https://www.datocms-assets.com/31873/1596730342-hero.png'
     actions:
       - css_style: saber-mais
         type: action

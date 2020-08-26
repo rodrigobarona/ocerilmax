@@ -652,12 +652,9 @@
   }
 
   &.bg-accent {
-    // background: _palette(accent);
-    // background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
-    // background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
-    background-image: url(https://www.datocms-assets.com/31873/1597070614-bghero.jpg);
-    background-repeat: no-repeat;
-    background-position: 54% 50%;
+    background: _palette(accent);
+    background: -webkit-linear-gradient(left,_palette(accent), _palette(accent-alt));
+    background: linear-gradient(to right,_palette(accent), _palette(accent-alt));
     color: #fff;
 
     .block-title {

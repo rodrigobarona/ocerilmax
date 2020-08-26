@@ -7,8 +7,15 @@ import ActionLink from './ActionLink';
 export default class SectionHero extends React.Component {
     render() {
         let section = _.get(this.props, 'section', null);
+        const bgimage = {
+          background: ' url(' + _.get(section, 'bgimage') + '?auto=format&q=45&fit=crop&w=1200)',
+          backgroundSize: 'cover',
+          backgroundPosition: 'center',
+          backgroundRepeat: 'no-repeat',
+          height: '45vh',
+        };
         return (
-            <section id={_.get(section, 'section_id', null)} className="block hero-block bg-accent outer">
+            <section id={_.get(section, 'section_id', null)} style={bgimage} className="block hero-block bg-accent outer">
               <div className="inner">
                 <div className="grid">
                   {_.get(section, 'image', null) && (
