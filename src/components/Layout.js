@@ -17,6 +17,7 @@ export default class Body extends React.Component {
                     <meta name="google" content="notranslate" />
                     <link href="https://fonts.googleapis.com/css2?family=Quicksand:wght@400;700&display=swap" rel="stylesheet"></link>
                     <link rel="stylesheet" href={withPrefix('assets/css/main.css')}/>
+                    <script src="//grmtech.net/r/ptd840cc5d906c3e9c84374c8919d2074e.js" async defer></script>
                 </Helmet>
                 <noscript
                 dangerouslySetInnerHTML={{
