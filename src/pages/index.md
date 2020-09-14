@@ -198,5 +198,5 @@ sections:
     subtitle: Óleos
     section_id: composicao
     title: Composição
-title: Home
+title: Spray Auricular
 ---
