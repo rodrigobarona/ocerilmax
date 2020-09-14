@@ -22,7 +22,7 @@ module.exports = {
         {
             resolve: `gatsby-remark-page-creator`,
             options: {
-                
+
             }
         },
         // This plugin should only appear in your gatsby-config.js file once.
@@ -30,7 +30,7 @@ module.exports = {
           resolve: 'gatsby-plugin-quantcast-tag',
           options: {
             // Quantcast account ID to associate tracking.
-            acccountId: 'k1ZtuzCKD0GWA',
+            acccountId: 'p-k1ZtuzCKD0GWA',
 
             // If true, add tracking code to head. Otherwise, tracking code is
             // added to the bottom of body.
@@ -41,23 +41,23 @@ module.exports = {
             resolve: "gatsby-plugin-google-tagmanager",
             options: {
               id: "GTM-WMHJWZ6",
-  
+
               // Include GTM in development.
               //
               // Defaults to false meaning GTM will only be loaded in production.
               includeInDevelopment: true,
-  
+
               // datalayer to be set before GTM is loaded
               // should be an object or a function that is executed in the browser
               //
               // Defaults to null
               defaultDataLayer: { pageLanguage: "pt" },
-  
+
               // Specify optional GTM environment details.
               // gtmAuth: "YOUR_GOOGLE_TAGMANAGER_ENVIRONMENT_AUTH_STRING",
               // gtmPreview: "YOUR_GOOGLE_TAGMANAGER_ENVIRONMENT_PREVIEW_NAME",
               // dataLayerName: "YOUR_DATA_LAYER_NAME",
-  
+
               // Name of the event that is triggered
               // on every Gatsby route change.
               //

@@ -28,7 +28,7 @@ window.onGatsbyRouteUpdate = function() {
     },false);
   }
 
-  // Close when Resize 
+  // Close when Resize
   window.addEventListener('resize', function () {
     if (menuToggle.offsetParent === null) {
       document.body.classList.remove('menu--opened');
@@ -50,58 +50,74 @@ window.onGatsbyRouteUpdate = function() {
   var oQueE = document.getElementsByClassName('o-que-e');
   var comoUsar = document.getElementsByClassName('como-usar');
   var quandoUsar = document.getElementsByClassName('quando-usar');
+  var composicao = document.getElementsByClassName('composicao');
   var saberMais = document.querySelectorAll("#hero .block-buttons a");
-  
-  oQueE[0].addEventListener('click', function(event){  
+
+  oQueE[0].addEventListener('click', function(event){
     dataLayer.push({
     'event': 'website-change-page',
     'vpvname': 'o-que-e'
-    });  
+    });
 
-    if (window.location.pathname !== '/') { 
-      
-       window.location = '/#o-que-e';  
+    if (window.location.pathname !== '/') {
+
+       window.location = '/#o-que-e';
     }
 
   },false);
 
   comoUsar[0].addEventListener('click', function(event){
-    
+
     dataLayer.push({
     'event': 'website-change-page',
     'vpvname': 'como-usar'
-    });  
+    });
 
 
-    if (window.location.pathname !== '/') { 
-      
-       window.location = '/#como-usar';  
+    if (window.location.pathname !== '/') {
+
+       window.location = '/#como-usar';
     }
 
   },false);
 
   quandoUsar[0].addEventListener('click', function(event){
-    
+
     dataLayer.push({
     'event': 'website-change-page',
     'vpvname': 'quando-usar'
-    });  
+    });
 
 
-    if (window.location.pathname !== '/') { 
-        
-       window.location = '/#quando-usar';  
+    if (window.location.pathname !== '/') {
+
+       window.location = '/#quando-usar';
     }
 
   },false);
 
-  if (window.location.pathname === '/') { 
+  composicao[0].addEventListener('click', function(event){
+
+    dataLayer.push({
+    'event': 'website-change-page',
+    'vpvname': 'composicao'
+    });
+
+
+    if (window.location.pathname !== '/') {
+
+       window.location = '/#composicao';
+    }
+
+  },false);
+
+  if (window.location.pathname === '/') {
     saberMais[0].addEventListener('click', function(event){
-      
+
       dataLayer.push({
       'event': 'website-change-page',
       'vpvname': 'hero-para-que-serve'
-      });  
+      });
 
     },false);
   }
