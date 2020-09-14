@@ -50,7 +50,7 @@ module.exports = {
               // on every Gatsby route change.
               //
               // Defaults to gatsby-route-change
-              //routeChangeEventName: "website-change-page",
+              routeChangeEventName: "website-change-page",
             }
         },
         {
