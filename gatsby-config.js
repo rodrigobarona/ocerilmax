@@ -25,18 +25,6 @@ module.exports = {
 
             }
         },
-        // This plugin should only appear in your gatsby-config.js file once.
-        {
-          resolve: 'gatsby-plugin-quantcast-tag',
-          options: {
-            // Quantcast account ID to associate tracking.
-            acccountId: 'p-k1ZtuzCKD0GWA',
-
-            // If true, add tracking code to head. Otherwise, tracking code is
-            // added to the bottom of body.
-            head: true,
-          },
-        },
         {
             resolve: "gatsby-plugin-google-tagmanager",
             options: {
