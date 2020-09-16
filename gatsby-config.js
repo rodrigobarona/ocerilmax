@@ -1,9 +1,10 @@
 module.exports = {
     pathPrefix: '/',
-    siteMetadata: require('./site-metadata.json'),
+    siteMetadata: require('./site-metadata.json'), 
     plugins: [
         `gatsby-plugin-react-helmet`,
         `gatsby-source-data`,
+        `gatsby-plugin-sitemap`,
         `gatsby-transformer-remark`,
         {
             resolve: `gatsby-source-filesystem`,
