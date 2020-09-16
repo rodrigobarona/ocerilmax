@@ -27,6 +27,14 @@ module.exports = {
             }
         },
         {
+	      resolve: 'gatsby-plugin-robots-txt',
+	      options: {
+	        host: 'https://ocerilmax.pt',
+	        sitemap: 'https://ocerilmax.pt/sitemap.xml',
+	        policy: [{ userAgent: '*', allow: '/' }]
+	      }
+	    },
+        {
             resolve: "gatsby-plugin-google-tagmanager",
             options: {
               id: "GTM-WMHJWZ6",
