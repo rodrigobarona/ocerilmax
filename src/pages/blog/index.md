@@ -1,4 +1,0 @@
----
-template: blog
-title: Blog
----
