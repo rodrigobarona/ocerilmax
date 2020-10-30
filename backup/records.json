@@ -1,0 +1,1678 @@
+[
+  {
+    "id": "5680984",
+    "logoImg": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2281270",
+      "customData": {},
+      "focalPoint": null
+    },
+    "tagline": "<div>Lubefar, uma empresa do Grupo Menarini<br />Quinta da Fonte, Edif&iacute;cio D. Manuel I - Piso 2-A <br />Rua dos Malh&otilde;es, 1<br />2770-071 Pa&ccedil;o de Arcos <br />Telf. <a href=\"tel:+351210935500\">(+351) 210 935 500</a></div>",
+    "hasNav": true,
+    "navTitle": "Informação Legal",
+    "navLinks": [
+      "5680935",
+      "5680950",
+      "5680974"
+    ],
+    "hasSocial": false,
+    "socialTitle": "Community",
+    "socialLinks": [],
+    "hasSubscribe": false,
+    "subscribeTitle": "Subscribe",
+    "subscribeContent": "Stay up to date with our latest developments.",
+    "content": "&copy; 2020 Menarini Portugal",
+    "links": [
+      "5680937"
+    ],
+    "typeSb": "footer",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-09-16T11:28:58.412+01:00",
+    "createdAt": "2020-07-23T15:24:23.174+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.174+01:00",
+      "updatedAt": "2020-09-16T11:28:58.412+01:00",
+      "publishedAt": "2020-09-16T11:28:58.447+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.196+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "13340601"
+    },
+    "itemType": "266821",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5681009",
+    "title": "Spray Auricular",
+    "sections": [
+      "5680953",
+      "5810643",
+      "5681007",
+      "5813315",
+      "5816301",
+      "5816273"
+    ],
+    "template": "landing",
+    "stackbitUrlPath": "/",
+    "stackbitModelType": "page",
+    "updatedAt": "2020-09-14T17:50:51.771+01:00",
+    "createdAt": "2020-07-23T15:24:28.234+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:28.234+01:00",
+      "updatedAt": "2020-09-14T17:50:51.771+01:00",
+      "publishedAt": "2020-09-14T17:50:51.792+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:28.248+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "12754097"
+    },
+    "itemType": "266823",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680953",
+    "title": "Spray Auricular",
+    "sectionId": "hero",
+    "content": "Excesso de cera nos ouvidos<br/>\nDor de ouvidos<br/>\nLimpeza de ouvidos",
+    "bgimage": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2274106",
+      "customData": {},
+      "focalPoint": null
+    },
+    "image": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2274102",
+      "customData": {},
+      "focalPoint": null
+    },
+    "actions": [
+      "5680941"
+    ],
+    "typeSb": "section_hero",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-26T10:54:01.975+01:00",
+    "createdAt": "2020-07-23T15:24:18.520+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:18.520+01:00",
+      "updatedAt": "2020-08-26T10:54:01.975+01:00",
+      "publishedAt": "2020-08-26T10:54:02.006+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:18.538+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "11225419"
+    },
+    "itemType": "266816",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680947",
+    "title": "Política de Privacidade",
+    "subtitle": "",
+    "image": null,
+    "template": "page",
+    "stackbitUrlPath": "/politica-de-privacidade/",
+    "content": "A LUBEFAR – Produtos Farmacêuticos, Lda., com sede no Edifício D. Manuel I, 2º A Rua dos Malhões, n.º 1 Quinta da Fonte, 2770-203 Paço d’Arcos, Portugal, com o capital social de € 49.880,00, registada na Conservatória do Registo Comercial de Cascais, sob o número 502551941, (doravante \"Empresa\") informa que o processamento dos seus dados pessoais, efectuado através deste website (também “sítio web”) ou recolhidos através dos formulários de contacto que nele estejam presentes (\"Formulário\" ou \"Formulários\") é efectuado em conformidade com a Política de Privacidade aplicável (Regulamento (UE) 2016/679 - doravante designado por \"Regulamento\").\n\n\n## 1. Titular de dados e Encarregado de Protecção de Dados (DPO)\n\nO titular dos dados é a LUBEFAR – Produtos Farmacêuticos, Lda., com sede no Edifício D. Manuel I, 2º A Rua dos Malhões, n.º 1 Quinta da Fonte, 2770-203 Paço d’Arcos. O encarregado pela proteção de dados (\"DPO\") pode ser contactado através do seguinte endereço: dpo@menarini.com\n\n\n## 2. Quais os dados que processamos\n\nCom o seu consentimento, processamos os dados pessoais que nos fornece quando interage com este sítio web, enviamos comunicações usando os formulários ou outras informações de contacto e usamos os serviços e recursos relacionados. Em concreto, os dados incluem nome, endereço de e-mail, o conteúdo dos seus pedidos ou relatórios específicos, bem como outros dados que possamos adquirir, mesmo de terceiros, no decurso da sua atividade (\"Dados\").\nPara que possamos processar os pedidos que nos envia através dos formulários, o seu consentimento é necessário para o processamento dos dados introduzidos, devendo fornecer, pelo menos, a informação marcada com um asterisco (*). Na ausência dos dados obrigatórios ou do consentimento, não poderemos prosseguir. \nEm qualquer caso, mesmo sem o seu consentimento prévio, poderemos tratar os seus Dados para cumprir obrigações legais, regulamentos e legislação da UE, para exercer direitos em tribunal, para prosseguir os seus legítimos interesses e para todos os casos previstos nos artigos 6º e 9º do Regulamento, quando aplicável. \nO processamento é realizado por meios informáticos e em papel, aplicando as medidas de segurança previstas pela legislação em vigor.\n\n\n## 3. Porque motivos como processamos os seus Dados\n\nOs Dados são processados para as seguintes finalidades: \n- Gerir os seus pedidos de informação feitos através do sítio web e do formulário; a base legal para o processamento dos seus dados pessoais para este fim é o seu consentimento (artigo 6º, nº 1., alínea a) e artigo 9º, nº 2., alínea a), do Regulamento); \n- Gerir os relatórios e as obrigações relacionadas com as notificações de eventos adversos (farmacovigilância) feitas através do sítio web ou dos formulários; a base legal do processamento para esses fins é o seu consentimento (artigo 6º, nº 1, alínea a) e artigo 9º, nº 2., do Regulamento) e a prossecução de um interesse público no sector da saúde (artigo 9º, nº 2., alínea i), do Regulamento).\nAo marcar as caixas apropriadas nos formulários, estará a consentir o processamento para os fins supramencionados.\nOs dados podem, em qualquer caso, ser tratados mesmo sem o seu consentimento, para cumprir as obrigações legais, regulamentos, legislação comunitária (artigo 6º, nº 1, alínea c) do Regulamento), para realizar estatísticas sobre a utilização do sítio web e assegurar a sua funcionalidade (artigo 6º, nº 1, alínea f), do Regulamento), bem como para implementar o Código de Conduta do Grupo Menarini e defender os seus direitos em tribunal (artigo 6º, nº 1, alínea f) e artigo 9º, nº 2, alínea f), do Regulamento).\nOs dados pessoais são introduzidos no sistema de informação da empresa em total conformidade com os regulamentos de privacidade aplicáveis, incluindo perfis de segurança e confidencialidade e considerando princípios de boa-fé, legalidade e transparência do processamento. Os dados serão conservados durante o período estritamente necessário para prosseguir os fins para os quais foram recolhidos; em qualquer caso, o critério utilizado para determinar este período baseia-se no cumprimento dos termos permitidos pelas leis aplicáveis e dos princípios de minimização do tratamento, limitação do armazenamento e gestão racional dos arquivos.\nTodos os dados do utilizador também são processados usando papel e ferramentas automatizadas que são, em qualquer caso, adequadas para garantir a segurança e a confidencialidade.\n\n\n## 4. Dados de navegação \n\nO processamento dos Dados dos utilizadores que apenas visitam o sítio web (sem enviar comunicações ou utilizar qualquer dos serviços/funções disponíveis) está limitado aos dados de navegação, ou seja, aqueles para os quais a transmissão ao sítio web é necessária para o funcionamento dos sistemas informáticos responsáveis pela sua gestão e dos protocolos de comunicação da Internet. Esta categoria inclui, por exemplo, os endereços IP ou o domínio do computador utilizado para visitar o sítio web e outros parâmetros relacionados com o sistema operativo utilizado pelo utilizador para se ligar ao website. A Empresa recolhe estes e outros dados (tais como, por exemplo, o número de visitas e tempo gasto no sítio) apenas para fins estatísticos e anónimos, a fim de monitorizar o funcionamento do sítio web e melhorar a sua funcionalidade. Esta informação não é recolhida para ser associada a outras informações sobre si e para o identificar; no entanto, esta informação, pela sua própria natureza, pode permitir a sua identificação através do processamento e associação com informações detidas por terceiros. Os dados de navegação são normalmente apagados após o processamento de forma anónima, mas podem ser armazenados e utilizados pela Empresa para verificar e identificar os autores de quaisquer crimes informáticos cometidos contra o sítio web ou através deste. Com excepção desta eventualidade e conforme especificado na Política de Cookies, os dados de navegação descritos acima são armazenados apenas temporariamente, em conformidade com a legislação aplicável.  \n\n\n## 5. Links para outros sites \n\nO sítio web pode conter links para outros sítios (os chamados sítios web de terceiros). A Empresa não acede ou controla cookies, web beacons e outras tecnologias de rastreamento de utilizadores usadas por sítios web de terceiros que podem ser acedidos a partir deste sítio; a Empresa não controla os conteúdos e materiais publicados ou obtidos através de sítios de terceiros, nem os métodos relativos ao processamento dos dados pessoais do utilizador, e declina expressamente qualquer responsabilidade por tais eventualidades. Deverá verificar a política de privacidade dos sítios de terceiros através do sítio web e informar-se sobre as condições aplicáveis ao processamento dos seus dados pessoais. Este documento aplica-se apenas a este sítio web, tal como definido acima.\n\n\n## 6. Quem pode aceder aos Dados \n\nOs Dados são acessíveis aos nossos colaboradores autorizados a tratá-los e, em particular, aos colaboradores pertencentes às categorias administrativas, técnicos de tecnologias de informação, gestores de produto, colaboradores encarregues pela gestão de relatórios de eventos adversos (farmacovigilância) e outros sujeitos que necessitem de tratá-los no desempenho das suas funções. Os Dados podem ser comunicados, também em países terceiros (\"Países Terceiros\"), a: (i) instituições, autoridades, organismos públicos para os seus fins institucionais; (ii) profissionais, colaboradores independentes, também de forma associada; terceiros e fornecedores utilizados para a prestação de serviços de natureza comercial, profissional e técnica funcionais à gestão do sítio web e funcionalidades relacionadas (ex. fornecedores de serviços de tecnologias de informação e Cloud Computing), para a realização dos objetivos acima especificados e dos serviços solicitados; (iii) terceiros em caso de fusão, aquisição, transferência de sociedade ou ramo de atividade, auditorias ou outras operações extraordinárias; (iv) sociedades pertencentes ao Grupo Menarini, ao qual a Empresa pertence, para a prossecução da fiscalização e aplicação do Código de Conduta do Grupo Menarini.\nOs Dados podem ser comunicados também a entidades de países terceiros (\"Países Terceiros\"), a outras empresas do Grupo Menarini para os mesmos fins e/ou para fins administrativos-contabilísticos, nos termos do artigo 6º, nº 1, alínea f) e do ponto 48 do Regulamento.\nEstes sujeitos receberão apenas os Dados necessários para as funções relativas e comprometer-se-ão a utilizá-los apenas para os fins indicados acima e a processá-los em conformidade com as normas de privacidade aplicáveis. Os Dados também podem ser comunicados aos destinatários legítimos nos termos da lei ou regulamento. Com excepção do que anteriormente se referiu, os Dados não são divulgados, nem sendo partilhados com terceiros, pessoas físicas ou jurídicas, que não desempenham qualquer função comercial, profissional e técnica para a Empresa ou para empresas do Grupo Menarini. Os sujeitos que receberem os Dados processam-nos como Proprietários, Gestores ou Processadores autorizados, conforme o caso, para os fins indicados acima e em conformidade com a Política de Privacidade aplicável.\nNo que diz respeito à possível transferência de Dados para países terceiros, incluindo países que podem não garantir o mesmo nível de proteção proporcionado pela Política de Privacidade aplicável, informa-se que o processamento será efetuado em qualquer caso de acordo com um dos métodos permitidos pelo Regulamento, tais como o seu consentimento, a adoção de cláusulas padrão aprovadas pela Comissão Europeia e a seleção de sujeitos participantes em programas internacionais para a livre circulação de dados, (por exemplo, EU-USA Privacy Shield) ou que operem em países considerados seguros pela Comissão Europeia.\n\n\n## 7. Os seus direitos\n\nAo contactar-nos através dos endereços acima indicados, poderá, a qualquer momento, exercer os direitos reconhecidos pelos artigos 15º a 22º do Regulamento, tais como, por exemplo, conhecer a lista atualizada dos sujeitos que podem aceder aos seus Dados, obter confirmação da existência ou não de dados pessoais que lhe dizem respeito, verificar o conteúdo dos seus Dados, a origem, exatidão, localização (também com referência a quaisquer países terceiros), solicitar uma cópia, solicitar a sua correção e, nos casos previstos pela lei em vigor, solicitar a limitação do tratamento, cancelamento, oposição a actividades de contacto direto (também limitado a determinados meios de comunicação). Do mesmo modo, pode sempre comunicar ao DPO observações sobre utilizações específicas dos dados em relação a situações pessoais específicas consideradas incorrectas ou não justificadas ou apresentar uma queixa à Comissão Nacional de Proteção de Dados. Poderá revogar o seu consentimento a qualquer momento, sem prejuízo da legalidade do processamento realizado antes da revoga&ccedil;&atilde;o do consentimento. \n",
+    "stackbitModelType": "page",
+    "updatedAt": "2020-08-13T11:20:30.844+01:00",
+    "createdAt": "2020-07-23T15:24:17.568+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:17.568+01:00",
+      "updatedAt": "2020-08-13T11:20:30.844+01:00",
+      "publishedAt": "2020-08-13T11:20:30.868+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:17.582+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10790113"
+    },
+    "itemType": "266808",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680935",
+    "label": "Política de Privacidade",
+    "url": "/politica-de-privacidade/",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-12T14:45:23.315+01:00",
+    "createdAt": "2020-07-23T15:24:15.759+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:15.759+01:00",
+      "updatedAt": "2020-08-12T14:45:23.315+01:00",
+      "publishedAt": "2020-08-12T14:45:23.331+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:15.769+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10762814"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680941",
+    "label": "Saber mais",
+    "url": "/#oquee",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "saber-mais",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-12T13:05:32.933+01:00",
+    "createdAt": "2020-07-23T15:24:16.659+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:16.659+01:00",
+      "updatedAt": "2020-08-12T13:05:32.933+01:00",
+      "publishedAt": "2020-08-12T13:05:32.953+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:16.669+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10760182"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680982",
+    "label": "Composição",
+    "url": "/#composicao",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "composicao",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-12T12:48:59.390+01:00",
+    "createdAt": "2020-07-23T15:24:23.007+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.007+01:00",
+      "updatedAt": "2020-08-12T12:48:59.390+01:00",
+      "publishedAt": "2020-08-12T12:48:59.406+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.018+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10759918"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680978",
+    "label": "Quando Usar",
+    "url": "/#quandousar",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "quando-usar",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-12T12:48:48.483+01:00",
+    "createdAt": "2020-07-23T15:24:22.236+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:22.236+01:00",
+      "updatedAt": "2020-08-12T12:48:48.483+01:00",
+      "publishedAt": "2020-08-12T12:48:48.499+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:22.247+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10759916"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680973",
+    "label": "Como Usar",
+    "url": "/#comousar",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "como-usar",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-12T12:48:34.099+01:00",
+    "createdAt": "2020-07-23T15:24:21.646+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:21.646+01:00",
+      "updatedAt": "2020-08-12T12:48:34.099+01:00",
+      "publishedAt": "2020-08-12T12:48:34.116+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:21.657+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10759911"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680948",
+    "label": "O que é",
+    "url": "/#oquee",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "o-que-e",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-12T12:48:16.480+01:00",
+    "createdAt": "2020-07-23T15:24:17.728+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:17.728+01:00",
+      "updatedAt": "2020-08-12T12:48:16.480+01:00",
+      "publishedAt": "2020-08-12T12:48:16.505+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:17.738+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10759903"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680974",
+    "label": "Política de Cookies",
+    "url": "/politica-de-cookies",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T19:04:47.408+01:00",
+    "createdAt": "2020-07-23T15:24:21.707+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:21.707+01:00",
+      "updatedAt": "2020-08-11T19:04:47.408+01:00",
+      "publishedAt": "2020-08-11T19:04:47.431+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:21.718+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10748696"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5816314",
+    "author": "Diminuição da audição",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2284812",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Provocada por excesso de cera ou endurecimento de cera",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:12:07.889+01:00",
+    "createdAt": "2020-08-10T12:16:26.779+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:16:26.779+01:00",
+      "updatedAt": "2020-08-11T16:12:07.889+01:00",
+      "publishedAt": "2020-08-11T16:12:07.915+01:00",
+      "firstPublishedAt": "2020-08-10T12:16:26.794+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746477"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816313",
+    "author": "Desconforto no dia-a-dia",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280516",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Viajar de avião, desportos e passeios em altitude",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:59.242+01:00",
+    "createdAt": "2020-08-10T12:16:08.365+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:16:08.365+01:00",
+      "updatedAt": "2020-08-11T16:11:59.242+01:00",
+      "publishedAt": "2020-08-11T16:11:59.325+01:00",
+      "firstPublishedAt": "2020-08-10T12:16:08.378+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746476"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816312",
+    "author": "Inverno e agressões externas",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2284811",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Vento, frio, variações de temperatura, humidade",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:51.841+01:00",
+    "createdAt": "2020-08-10T12:15:51.947+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:15:51.947+01:00",
+      "updatedAt": "2020-08-11T16:11:51.841+01:00",
+      "publishedAt": "2020-08-11T16:11:51.863+01:00",
+      "firstPublishedAt": "2020-08-10T12:15:51.960+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746475"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816311",
+    "author": "Utilização de dispositivos auriculares",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280471",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Headphones para lazer/trabalho, aparelhos de audição (contribuem para o aumento da produção de cera)",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:44.047+01:00",
+    "createdAt": "2020-08-10T12:15:35.619+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:15:35.619+01:00",
+      "updatedAt": "2020-08-11T16:11:44.047+01:00",
+      "publishedAt": "2020-08-11T16:11:44.065+01:00",
+      "firstPublishedAt": "2020-08-10T12:15:35.634+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746474"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816310",
+    "author": "Atividades Aquáticas",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2284810",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Atividades desportivas extracurriculares e hobbies como natação, surf, bodyboard, mergulho, entre outras",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:37.198+01:00",
+    "createdAt": "2020-08-10T12:15:12.878+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:15:12.878+01:00",
+      "updatedAt": "2020-08-11T16:11:37.198+01:00",
+      "publishedAt": "2020-08-11T16:11:37.218+01:00",
+      "firstPublishedAt": "2020-08-10T12:15:12.892+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746473"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816306",
+    "author": "Época Balnear",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280465",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Atividades na água durante a época balnear",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:28.697+01:00",
+    "createdAt": "2020-08-10T12:14:48.729+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:14:48.729+01:00",
+      "updatedAt": "2020-08-11T16:11:28.697+01:00",
+      "publishedAt": "2020-08-11T16:11:28.714+01:00",
+      "firstPublishedAt": "2020-08-10T12:14:48.746+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746472"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816304",
+    "author": "Otite",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2284807",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Auxilia o tratamento da otite no adulto e na criança",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:17.197+01:00",
+    "createdAt": "2020-08-10T12:13:54.768+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:13:54.768+01:00",
+      "updatedAt": "2020-08-11T16:11:17.197+01:00",
+      "publishedAt": "2020-08-11T16:11:17.220+01:00",
+      "firstPublishedAt": "2020-08-10T12:13:54.783+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746469"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816303",
+    "author": "Higiene regular",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280460",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "Higiene regular, propensão para produção excessiva de cera e formação do rolhão",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T16:11:11.498+01:00",
+    "createdAt": "2020-08-10T12:12:55.614+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:12:55.614+01:00",
+      "updatedAt": "2020-08-11T16:11:11.498+01:00",
+      "publishedAt": "2020-08-11T16:11:11.515+01:00",
+      "firstPublishedAt": "2020-08-10T12:12:55.628+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10746467"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5680986",
+    "title": "OCERILMAX",
+    "logoImg": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2284688",
+      "customData": {},
+      "focalPoint": null
+    },
+    "hasNav": true,
+    "navLinks": [
+      "5680948",
+      "5680973",
+      "5680978",
+      "5680982"
+    ],
+    "typeSb": "header",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-11T15:06:38.259+01:00",
+    "createdAt": "2020-07-23T15:24:23.463+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.463+01:00",
+      "updatedAt": "2020-08-11T15:06:38.259+01:00",
+      "publishedAt": "2020-08-11T15:06:38.280+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.489+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10745134"
+    },
+    "itemType": "266813",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680942",
+    "title": "Política de Cookies",
+    "subtitle": "",
+    "image": null,
+    "template": "page",
+    "stackbitUrlPath": "/politica-de-cookies",
+    "content": "O sítio web da LUBEFAR – Produtos Farmacêuticos, Lda., com sede no Edifício D. Manuel I, 2º A Rua dos Malhões, n.º 1 Quinta da Fonte, 2770-203 Paço d’Arcos, Portugal, com o capital social de 49880,00 Euros, registada na Conservatória do Registo Comercial de Cascais, sob o número 502551941, (doravante LUBEFAR) utiliza cookies e outros arquivos com funcionalidades idênticas, com a finalidade de optimizar a navegação no referido sítio de internet pelos utilizadores (Utilizador).\n\n## 1.\tO que são os cookies?\n\nUm cookie é um arquivo de texto que é descarregado no seu computador, smartphone, tablet ou outro dispositivo que utilize para aceder a determinadas páginas da internet. Os cookies permitem à página de internet reconhecer o seu equipamento e armazenar e recuperar informação sobre os seus hábitos de navegação, para melhorar os serviços que oferecem.\n\nOs cookies ficam guardados na memória do seu navegador e cada um contém:\n\n* i.\tO nome do servidor a partir do qual foi enviado.\n* ii.\tInformação sobre o seu tempo de vida útil.\n* iii.\tUm valor, que é habitualmente um número único gerado de forma aleatória.\n\nO servidor do sítio web que envia o cookie usa este número para reconhecer o seu navegador sempre que regressa a uma determinada página. Só o servidor que enviou o cookie pode lê-lo e utilizá-lo.\n\n## 2.\tTipos de cookies que utilizamos\n\nO sítio web da LUBEFAR utiliza diversos tipos de cookies (técnicos, analíticos, de redes sociais e de personalização) com a finalidade de melhorar a sua navegação no referido sítio, sem qualquer tipo de finalidade publicitária ou similar.\n\nA LUBEFAR não recolhe qualquer dado pessoal através dos cookies. Todos os cookies, excepto os utilizados pelo sistema de estatística Google Analytics, são temporários e desaparecem no fim da sessão.\n\n### 2.1.\tCookies próprios e de terceiros\n\nInformamos ainda que no nosso sítio web utilizamos os seguintes cookies:\n\n* Cookies Técnicos: necessários à identificação da sessão do utilizador ou para a prestação de determinados serviços. Caso estes cookies sejam desactivados não poderá receber correctamente todos os conteúdos do sítio web.\n\n* Cookies Analíticos: utilizados para realizar o seguimento e a análise estatística do seu comportamento no sítio web. Se estes cookies forem desactivados, o sítio web poderá continuar a funcionar, sem prejuízo de que a informação recolhida por estes cookies sobre a utilização no nosso sítio e sobre o seu conteúdo, permita melhorar os nossos serviços.\nRecolhem informação sobre a data de visita, a URL e o título da página web visitada. Os relatórios gerados com esta informação serão meramente estatísticos, dando informação sobre o comportamento de navegação de forma anónima.\n\nO nosso sítio web poderá conter ligações a outras páginas web. A LUBEFAR não tem acesso, nem exerce qualquer tipo de controlo sobre os cookies e demais tecnologias de seguimento utilizadas nas páginas de terceiros a que possa aceder a partir do nosso sítio web.\n\n### 2.2.\tCookies por duração\n\nOs cookies utilizados pela LUBEFAR podem ter os seguintes tipos de duração:\n\n* De sessão: a sua duração acaba com o fim da sessão. Normalmente estão armazenados na memória cache do equipamento.\n* Permanentes: ficam permanentemente instalados no seu navegador e são activados cada vez que visite o sítio web, desde que a sua utilização não seja desactivada.\n\n### 2.3 Relação de cookies utilizados no nosso sítio web:\n\nVer a lista completa dos cookies utilizados por esta página web.\n\n\n[INSERIR TIPOS DE COOKIES USADOS]\n\n\n## 3.\tConfiguração de cookies\n\nÉ importante ter em conta que pode permitir o bloqueio, a eliminação ou a activação das suas preferências relativamente aos cookies instalados no seu equipamento mediante as opções do navegador que esteja a utilizar. Indicamos, em seguida, as ligações para os principais navegadores:\n\n[se aplicável inserir as ligações. Se não aplicável, apagar todo este ponto 3] \n\n## 4.\tRecusa de cookies\n\nO Utilizador poderá revogar o seu consentimento para a utilização de cookies no seu navegador através das indicações que antecedem ou através da instalação de um sistema de recusa/bloqueio, (“opt-out”) no seu navegador de internet. Alguns terceiros disponibilizam esta recusa, como por exemplo a Google Analytics:\nhttps://tools.google.com/dlpage/gaoptout?hl=None\n\n\n## 5.\tAceitação de cookies\n\nAo aceder pela primeira vez a este sítio web encontrará uma janela que contém informação sobre a utilização de cookies e na qual poderá consultar esta “Política de cookies”. Caso continue a navegar no sítio web, presume-se que aceita a utilização de cookies por parte deste sítio web e, consequentemente, a instalação dos mesmos no seu equipamento.\n\nCaso entenda, poderá alterar a configuração de cookies, a todo o tempo, a partir do seu navegador. Informamos que ao bloquear ou não aceitar a instalação de cookies, é possível que alguns serviços não estejam disponíveis.\n\nPara além do uso dos nossos cookies próprios, permitimos a terceiros instalar cookies e aceder aos mesmos no seu computador. O consentimento para a utilização de cookies destas empresas está ligado à navegação neste sítio web. A LUBEFAR agradece que dê o seu consentimento aos referidos cookies, tendo em conta que isso nos permite obter dados mais precisos sobre a sua navegação e, consequentemente, melhorar o conteúdo e desenho da nossa web para adequá-las às suas preferências.\n\n## 6.\tActualizações e alterações na Política de Cookies\n\nA LUBEFAR poderá alterar esta Política de Cookies em função de novas exigências legislativas, regulamentares ou com a finalidade de adaptá-las às instruções da Comissão Nacional de Protecção de Dados.\nSempre que ocorram alterações significativas a esta Política de Cookies, estas serão comunicadas ao utilizador (quer por aviso publicado na página web do editor, quer através de correio electrónico, no caso de utilizadores registados).\n\nCaso pretenda mais informação sobre a utilização que fazemos dos Cookies, poderá contactar-nos por email para [dpo@menarini.com](mailto:dpo@menarini.com)\n",
+    "stackbitModelType": "page",
+    "updatedAt": "2020-08-10T17:57:30.316+01:00",
+    "createdAt": "2020-07-23T15:24:16.962+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:16.962+01:00",
+      "updatedAt": "2020-08-10T17:57:30.316+01:00",
+      "publishedAt": "2020-08-10T17:57:30.331+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:16.973+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10726692"
+    },
+    "itemType": "266808",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680950",
+    "label": "Termos e Condições",
+    "url": "/termos-e-condicoes",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T17:53:46.537+01:00",
+    "createdAt": "2020-07-23T15:24:18.188+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:18.188+01:00",
+      "updatedAt": "2020-08-10T17:53:46.537+01:00",
+      "publishedAt": "2020-08-10T17:53:46.559+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:18.198+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10726654"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680946",
+    "title": "Termos e Condições de utilização do Site",
+    "subtitle": "",
+    "image": null,
+    "template": "page",
+    "stackbitUrlPath": "/termos-e-condicoes",
+    "content": "Os presentes Termos e Condições de Utilização (“Termos e Condições”) regulam a utilização do sítio web www.ocerilmax.pt, de responsabilidade da LUBEFAR – Produtos Farmacêuticos, Lda., uma empresa pertencente ao GRUPO MENARINI. \nA LUBEFAR – Produtos Farmacêuticos, Lda. (doravante LUBEFAR), com sede no Edifício D. Manuel I, 2º A Rua dos Malhões, n.º 1 Quinta da Fonte, 2770-203 Paço d’Arcos, Portugal, com o capital social de 49880,00 Euros, encontra-se registada na Conservatória do Registo Comercial de Cascais, sob o número 502551941.\nA utilização deste sítio web pelos utilizadores (“Utilizador”) implica e pressupõe o conhecimento e aceitação plena, integral e sem reservas destes Termos e Condições.\nO Utilizador declara expressamente possuir a capacidade jurídica necessária e legalmente exigida para poder aceitar plena e integralmente, sem reservas, os presentes Termos e Condições.\nO Utilizador reconhece e aceita expressamente que a LUBEFAR ou qualquer empresa do GRUPO MENARINI poderão, a todo o tempo, de forma livre e sem reservas, proceder à alteração destes Termos e Condições, considerando-se que tais alterações entram em vigor a partir da data da sua disponibilização neste sítio web.\nCaso o Utilizador não concorde ou não aceite os Termos e Condições, não deverá prosseguir com a utilização deste sítio web.\n\n## I.\tPROPRIETÁRIO DO SÍTIO WEB E DIREITOS DE PROPRIEDADE INDUSTRIAL E INTELECTUAL\nSalvo quando expressamente indicado em sentido contrário, todos os conteúdos deste sítio web, incluindo, sem qualquer carácter limitativo, textos, dados, imagens, gráficos, sons, áudios, vídeos, desenhos, ilustrações, marcas, domínios, denominações, logótipos, ícones, imagens, fotografias, software e todas as outras informações, funcionalidades e conteúdos que dele constem, são propriedade ou encontram-se sob licença da LUBEFAR ou das sociedades que integram o GRUPO MENARINI, e encontram-se protegidos nos termos gerais de direito e pela legislação nacional e internacional sobre proteção de direitos de autor e de propriedade intelectual. \nNesta conformidade, com excepção do arquivo ou da transferência para o disco e/ou impressão apenas de uma cópia, é expressamente proibido qualquer tipo de utilização dos conteúdos deste sítio, incluindo a reprodução, modificação, distribuição, transmissão, republicação, exibição ou representação, total ou parcial, do mesmo, sem o consentimento expresso e escrito da LUBEFAR ou de qualquer empresa do GRUPO MENARINI.\n\n## II.\tCONTEÚDOS E GARANTIAS  \nAs informações contidas neste sítio de internet não são disponibilizadas por especialistas na área médica e destinam-se apenas a fins informativos. Em nenhuma circunstância, poderá ser tida, interpretada ou utilizada como aconselhamento médico, legal ou de qualquer outro tipo. Consequentemente, recomenda-se e convida-se todos os utilizadores deste sítio web a consultar o seu médico sobre qualquer assunto relativo à sua saúde (por exemplo, diagnóstico, tratamentos de saúde, etc.).\nA informação pretende ser actual e precisa. No entanto, poderá acontecer que a informação não seja a mais actual e possa conter erros. A LUBEFAR ou qualquer empresa do GRUPO MENARINI não garantem, por nenhum modo, que a informação disponibilizada seja totalmente aplicável, correcta e actual, nem dá qualquer outra garantia relativamente à informação prestada, designadamente quanto à continuidade, aplicabilidade e funcionamento sem interrupções das informações que possa prestar através deste sítio de internet. \nInforma-se que os nomes registados dos produtos a que se faz referência neste sítio web, acompanhados ou não do símbolo de marca registada®, são marcas registadas de propriedade ou sob licença da LUBEFAR ou de empresas do GRUPO MENARINI. Adverte-se que o uso de tais marcas registadas é expressamente proibido.\n\nAinda que a Internet seja um serviço para a comunidade global, a indústria farmacêutica, no entanto, é regida por leis que afectam o grau de informação que pode ser fornecida sobre os próprios produtos e cuja eficácia é territorialmente limitada. Além disso, o estatuto regulamentar dos produtos farmacêuticos pode ser diferente em diversas partes do mundo. Da mesma forma, os textos aprovados para embalagem também podem diferir em função das condições da autorização de comercialização em cada país.\nInforma-se que as visitas a este sítio web podem ser registadas para avaliações estatísticas, para garantir a continuidade do serviço e para a sua própria melhoria.\nEste sítio web permite o acesso sem identificação/registo do visitante. Para as partes ou secções deste sítio que possam estar sujeitas ao registo de dados pessoais, será incluída uma nota informativa e o relativo pedido de consentimento para o tratamento de dados.\nA LUBEFAR ou qualquer empresa do Grupo Menarini reservam-se o direito de realizar alterações e correções, suspender ou encerrar este sítio web quando considerar apropriado e sem necessidade de qualquer prévio aviso ou qualquer outro procedimento ou formalidade.\n\n## III.\tEXCLUSÃO DE RESPONSABILIDADE \nA LUBEFAR e o GRUPO MENARINI, bem como todos os seus responsáveis legais, directores e demais colaboradores, bem como qualquer outra parte envolvida na criação, produção, manutenção ou implementação deste sítio web, não serão responsáveis perante qualquer Utilizador, por qualquer possível dano, prejuízo ou lesão que advenham da utilização correcta ou incorrecta deste sítio e seu conteúdo, do acesso ao computador ou sistema informático do Utilizador por terceiros ou vírus.\nO acesso e a utilização deste sítio estão sujeitos a interferências, interrupções, desconexões ou outras anomalias, designadamente em consequência de avarias, sobrecargas ou outras eventualidades às quais a LUBEFAR e qualquer empresa do Grupo Menarini são alheias, reconhecendo expressamente o Utilizador que nenhuma responsabilidade poderá ser imputada à LUBEFAR ou a qualquer empresa do Grupo Menarini relativamente aos danos, potenciais ou actuais que, directa ou indirectamente, possam resultar para o Utilizador em virtude da ocorrência de tais eventos. \nA LUBEFAR não garante que este sítio web se encontre livre de erros, vírus ou outros elementos prejudiciais. \nAtravés dos links contidos neste sítio web poderá sair deste sítio e aceder a sítios web de terceiros fora do controlo da LUBEFAR ou de qualquer empresa do Grupo Menarini. Consequentemente, a LUBEFAR e qualquer empresa do Grupo Menarini não podem, de modo algum, ser responsabilizadas pelo conteúdo ou serviços veiculados ou disponibilizados por tais sítios web, nem por algum dos links neles contidos, ou por quaisquer alterações ou actualizações dos mesmos. Os links são fornecidos aos visitantes apenas para sua conveniência. A inclusão de qualquer link não implica, em nenhum caso, o apoio ou patrocínio da LUBEFAR ou de qualquer empresa do Grupo Menarini. Em particular, as informações contidas no novo sítio web escolhido podem não estar em conformidade com a legislação vigente que rege a publicidade a medicamentos para uso humano e as opiniões expressas não refletem necessariamente as posições da LUBEFAR ou de qualquer empresa do Grupo Menarini, nem se podem entender que por esta são subscritos.\n\n## IV.\tRESPONSABILIDADE DO UTILIZADOR DO SITE\nO Utilizador é o único e exclusivo responsável pela utilização que fizer deste sítio web e dos conteúdos que nele, ou a partir dele, estejam disponíveis, pelo que se obriga a respeitar a legislação aplicável, nomeadamente, o Código do Direito de Autor e dos Direitos Conexos, o Código da Propriedade Industrial, a Lei da Criminalidade Informática, bem como os presentes Termos e Condições, para além de agir de boa-fé e fazer uma utilização que não ofenda quaisquer direitos de terceiros, nomeadamente o direito à imagem, o direito ao bom nome, o direito à honra e reserva da vida privada. Do mesmo modo, abster-se-á de quaisquer utilizações que possam, directa ou indirectamente, constituir ataque em função da raça, nacionalidade, origem étnica, religião, convicção política ou sexo, ou que constitua difamação, incitação ao furto, fraude, violência, terrorismo, prostituição, pedofilia, ou ainda que empregue conteúdos de carácter obsceno, pornográfico ou indecoroso.\nO Utilizador compromete-se a manter estritamente confidenciais quaisquer códigos de acesso que eventualmente lhe sejam disponibilizados, na actualidade ou no futuro, tendo em vista a sua utilização neste sítio web, sendo responsáveis por quaisquer danos ou prejuízos que venham a causar à LUBEFAR, às empresas do Grupo Menarini ou a terceiros, em virtude de uma utilização ilegal ou incorreta deste sítio, comprometendo-se a informar imediatamente a LUBEFAR ou as empresas do Grupo Menarini de quaisquer violações ou utilizações incorretas de que tenha tomado conhecimento. \nÉ ainda expressamente proibido ao Utilizador criar ou introduzir neste sítio web quaisquer tipos de vírus ou programas que o danifiquem ou contaminem. \nO Utilizador é o único responsável pelos prejuízos, directos ou indirectos, causados a si próprio, à LUBEFAR, a qualquer empresa do Grupo Menarini ou a quaisquer terceiros, relacionados com a utilização que fizer deste sítio, comprometendo-se a proceder ao pagamento das indemnizações que venham a ser atribuídas em virtude de qualquer acção, reclamação ou condenação a que dê origem.\nA LUBEFAR ou qualquer empresa do Grupo Menarini reservam-se o direito de impedir o acesso e a utilização deste sítio web a qualquer Utilizador que viole qualquer disposição dos presentes Termos e Condições ou quaisquer normas legais, nomeadamente no que respeita à utilização da Internet e seus utilizadores\n\n## V.\tLEI APLICÁVEL E FORO\nO Utilizador reconhece e aceita expressamente que todas as questões não previstas nestes Termos e Condições serão reguladas pela legislação portuguesa em vigor e ainda que, em caso de litígio quanto à validade, eficácia, interpretação, integração, aplicação ou cumprimento dos presentes Termos e Condições, será competente o Tribunal da Comarca de Lisboa, com expressa renúncia a qualquer outro.\n",
+    "stackbitModelType": "page",
+    "updatedAt": "2020-08-10T17:52:47.555+01:00",
+    "createdAt": "2020-07-23T15:24:17.422+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:17.422+01:00",
+      "updatedAt": "2020-08-10T17:52:47.555+01:00",
+      "publishedAt": "2020-08-10T17:52:47.572+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:17.436+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10726641"
+    },
+    "itemType": "266808",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5816301",
+    "title": "Quando devo aplicar Ocerilmax nos ouvidos",
+    "sectionId": "quandousar",
+    "subtitle": "",
+    "background": "white",
+    "reviews": [
+      "5816303",
+      "5816304",
+      "5816306",
+      "5816310",
+      "5816311",
+      "5816312",
+      "5816313",
+      "5816314"
+    ],
+    "typeSb": "section_reviews",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:16:28.463+01:00",
+    "createdAt": "2020-08-10T12:12:15.286+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T12:12:15.286+01:00",
+      "updatedAt": "2020-08-10T12:16:28.463+01:00",
+      "publishedAt": "2020-08-10T12:16:28.494+01:00",
+      "firstPublishedAt": "2020-08-10T12:12:15.297+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719807"
+    },
+    "itemType": "266809",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5816273",
+    "title": "Composição",
+    "sectionId": "composicao",
+    "subtitle": "Óleos",
+    "background": "white",
+    "reviews": [
+      "5680998",
+      "5681000",
+      "5681002",
+      "5815381",
+      "5815382",
+      "5815386",
+      "5815390",
+      "5815412"
+    ],
+    "typeSb": "section_reviews",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:09:51.750+01:00",
+    "createdAt": "2020-08-10T11:58:06.598+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T11:58:06.598+01:00",
+      "updatedAt": "2020-08-10T12:09:51.750+01:00",
+      "publishedAt": "2020-08-10T12:09:51.769+01:00",
+      "firstPublishedAt": "2020-08-10T11:58:06.615+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719689"
+    },
+    "itemType": "266809",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5815412",
+    "author": "Extrato de Goldenseal",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280893",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "anti-inflamatório",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:09:47.999+01:00",
+    "createdAt": "2020-08-10T10:15:30.573+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T10:15:30.573+01:00",
+      "updatedAt": "2020-08-10T12:09:47.999+01:00",
+      "publishedAt": "2020-08-10T12:09:48.020+01:00",
+      "firstPublishedAt": "2020-08-10T10:15:30.601+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719688"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5815390",
+    "author": "Alecrim",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280892",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "analgésico e estimulante da circulação",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:09:26.293+01:00",
+    "createdAt": "2020-08-10T10:14:47.503+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T10:14:47.503+01:00",
+      "updatedAt": "2020-08-10T12:09:26.293+01:00",
+      "publishedAt": "2020-08-10T12:09:26.315+01:00",
+      "firstPublishedAt": "2020-08-10T10:14:47.520+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719683"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5815386",
+    "author": "Oregão",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280891",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "anti-inflamatório e adstringente",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:09:03.374+01:00",
+    "createdAt": "2020-08-10T10:14:14.471+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T10:14:14.471+01:00",
+      "updatedAt": "2020-08-10T12:09:03.374+01:00",
+      "publishedAt": "2020-08-10T12:09:03.391+01:00",
+      "firstPublishedAt": "2020-08-10T10:14:14.488+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719679"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5815382",
+    "author": "Gerânio",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280890",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "analgésico e imunoestimulante",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:08:18.476+01:00",
+    "createdAt": "2020-08-10T10:12:42.182+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T10:12:42.182+01:00",
+      "updatedAt": "2020-08-10T12:08:18.476+01:00",
+      "publishedAt": "2020-08-10T12:08:18.497+01:00",
+      "firstPublishedAt": "2020-08-10T10:12:42.204+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719664"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5815381",
+    "author": "Lavanda",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280888",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "antibacteriano",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:07:44.383+01:00",
+    "createdAt": "2020-08-10T10:11:53.228+01:00",
+    "meta": {
+      "createdAt": "2020-08-10T10:11:53.228+01:00",
+      "updatedAt": "2020-08-10T12:07:44.383+01:00",
+      "publishedAt": "2020-08-10T12:07:44.401+01:00",
+      "firstPublishedAt": "2020-08-10T10:11:53.244+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719656"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5681002",
+    "author": "Limão",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280887",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "antibacteriano e antifúngico",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:07:17.662+01:00",
+    "createdAt": "2020-07-23T15:24:26.511+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:26.511+01:00",
+      "updatedAt": "2020-08-10T12:07:17.662+01:00",
+      "publishedAt": "2020-08-10T12:07:17.683+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:26.532+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719646"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5681000",
+    "author": "Hortelã-pimenta",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280886",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "antifúngico",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:06:44.114+01:00",
+    "createdAt": "2020-07-23T15:24:26.192+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:26.192+01:00",
+      "updatedAt": "2020-08-10T12:06:44.114+01:00",
+      "publishedAt": "2020-08-10T12:06:44.135+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:26.205+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719638"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680998",
+    "author": "Tea tree",
+    "avatar": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2280885",
+      "customData": {},
+      "focalPoint": null
+    },
+    "content": "antisséptico",
+    "typeSb": "review_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T12:06:12.663+01:00",
+    "createdAt": "2020-07-23T15:24:25.903+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:25.903+01:00",
+      "updatedAt": "2020-08-10T12:06:12.663+01:00",
+      "publishedAt": "2020-08-10T12:06:12.680+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:25.916+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10719632"
+    },
+    "itemType": "266806",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5681004",
+    "title": "Quando devo aplicar Ocerilmax nos ouvidos",
+    "sectionId": "quandousar",
+    "subtitle": "",
+    "background": "white",
+    "reviews": [
+      "5680998",
+      "5681000",
+      "5681002",
+      "5815381",
+      "5815382",
+      "5815386",
+      "5815390",
+      "5815412"
+    ],
+    "typeSb": "section_reviews",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-10T10:16:00.580+01:00",
+    "createdAt": "2020-07-23T15:24:26.798+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:26.798+01:00",
+      "updatedAt": "2020-08-10T10:16:00.580+01:00",
+      "publishedAt": "2020-08-10T10:16:00.598+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:26.813+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10717346"
+    },
+    "itemType": "266809",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680989",
+    "title": "Como usar o spray auricular",
+    "content": "### Como usar<br/>o spray auricular\n1. &nbsp;**Agitar bem durante 5 segundos** antes de utilizar a fim de obter uma suspensão homogénea\n2. &nbsp;Ao aplicar o spray, **puxar suavemente a aurícula para cima e para trás**\n3. &nbsp;**Colocar a ponta do bucal gentilmente no ouvido**, segurar na posição vertical e pressionar a bomba\n4. &nbsp;Após a aplicação, **massajar a parte frontal do canal auditivo** (tragus) do lado externo",
+    "image": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2279429",
+      "customData": {},
+      "focalPoint": null
+    },
+    "actions": [
+      "5680985",
+      "5813326"
+    ],
+    "typeSb": "feature_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T19:38:48.290+01:00",
+    "createdAt": "2020-07-23T15:24:23.892+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.892+01:00",
+      "updatedAt": "2020-08-09T19:38:48.290+01:00",
+      "publishedAt": "2020-08-09T19:38:48.310+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.910+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10710029"
+    },
+    "itemType": "266815",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5813315",
+    "title": "Como usar",
+    "sectionId": "comousar",
+    "subtitle": "",
+    "background": "white",
+    "features": [
+      "5680989"
+    ],
+    "typeSb": "section_features",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T18:24:53.791+01:00",
+    "createdAt": "2020-08-09T18:05:51.761+01:00",
+    "meta": {
+      "createdAt": "2020-08-09T18:05:51.761+01:00",
+      "updatedAt": "2020-08-09T18:24:53.791+01:00",
+      "publishedAt": "2020-08-09T18:24:53.813+01:00",
+      "firstPublishedAt": "2020-08-09T18:05:51.778+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10709466"
+    },
+    "itemType": "266817",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5813326",
+    "label": "Crianças >12 anos e Adultos:",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T18:11:49.346+01:00",
+    "createdAt": "2020-08-09T18:11:49.344+01:00",
+    "meta": {
+      "createdAt": "2020-08-09T18:11:49.344+01:00",
+      "updatedAt": "2020-08-09T18:11:49.346+01:00",
+      "publishedAt": "2020-08-09T18:11:49.353+01:00",
+      "firstPublishedAt": "2020-08-09T18:11:49.353+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10709330"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5680985",
+    "label": "Crianças 2-12 anos:",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T18:11:16.530+01:00",
+    "createdAt": "2020-07-23T15:24:23.289+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.289+01:00",
+      "updatedAt": "2020-08-09T18:11:16.530+01:00",
+      "publishedAt": "2020-08-09T18:11:16.548+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.300+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10709326"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5681007",
+    "title": "Higiene e Proteção Diárias",
+    "sectionId": "cta_HPD",
+    "subtitle": "Higiene e&nbsp;Proteção Diárias",
+    "actions": [
+      "5812881",
+      "5812882",
+      "5812883"
+    ],
+    "typeSb": "section_cta",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T11:17:55.082+01:00",
+    "createdAt": "2020-07-23T15:24:27.760+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:27.760+01:00",
+      "updatedAt": "2020-08-09T11:17:55.082+01:00",
+      "publishedAt": "2020-08-09T11:17:55.099+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:27.775+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10706984"
+    },
+    "itemType": "266818",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5812883",
+    "label": "Auxilia",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T11:08:09.556+01:00",
+    "createdAt": "2020-08-09T10:50:12.646+01:00",
+    "meta": {
+      "createdAt": "2020-08-09T10:50:12.646+01:00",
+      "updatedAt": "2020-08-09T11:08:09.556+01:00",
+      "publishedAt": "2020-08-09T11:08:09.574+01:00",
+      "firstPublishedAt": "2020-08-09T10:50:12.654+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10706972"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5812882",
+    "label": "Previne",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T11:08:01.220+01:00",
+    "createdAt": "2020-08-09T10:49:37.136+01:00",
+    "meta": {
+      "createdAt": "2020-08-09T10:49:37.136+01:00",
+      "updatedAt": "2020-08-09T11:08:01.220+01:00",
+      "publishedAt": "2020-08-09T11:08:01.238+01:00",
+      "firstPublishedAt": "2020-08-09T10:49:37.147+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10706970"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5812881",
+    "label": "Cria",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-09T11:07:51.911+01:00",
+    "createdAt": "2020-08-09T10:47:55.489+01:00",
+    "meta": {
+      "createdAt": "2020-08-09T10:47:55.489+01:00",
+      "updatedAt": "2020-08-09T11:07:51.911+01:00",
+      "publishedAt": "2020-08-09T11:07:51.924+01:00",
+      "firstPublishedAt": "2020-08-09T10:47:55.502+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10706969"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5810642",
+    "title": "O que é Ocerilmax",
+    "content": "* Dispositivo Médico de Classe I destinado a auxiliar o tratamento da otite\n* Hidrata e acalma a pele do canal auditivo \n* Amolece a cera residual do ouvido e evita o seu endurecimento\n* Alivia o inchaço do canal auditivo e possui propriedades adstringentes\n* Cria uma barreira de proteção contra influências ambientais prejudiciais\n* Ajuda a manter a higiene adequada e a humidade natural dos ouvidos",
+    "image": {
+      "alt": null,
+      "title": null,
+      "uploadId": "2278570",
+      "customData": {},
+      "focalPoint": null
+    },
+    "actions": [
+      "5810644",
+      "5810651",
+      "5810652"
+    ],
+    "typeSb": "feature_item",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-08T14:20:29.402+01:00",
+    "createdAt": "2020-08-08T13:34:24.264+01:00",
+    "meta": {
+      "createdAt": "2020-08-08T13:34:24.264+01:00",
+      "updatedAt": "2020-08-08T14:20:29.402+01:00",
+      "publishedAt": "2020-08-08T14:20:29.427+01:00",
+      "firstPublishedAt": "2020-08-08T13:34:24.280+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10695250"
+    },
+    "itemType": "266815",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5810652",
+    "label": "Sem Conservantes",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-08T13:49:10.683+01:00",
+    "createdAt": "2020-08-08T13:49:10.680+01:00",
+    "meta": {
+      "createdAt": "2020-08-08T13:49:10.680+01:00",
+      "updatedAt": "2020-08-08T13:49:10.683+01:00",
+      "publishedAt": "2020-08-08T13:49:10.690+01:00",
+      "firstPublishedAt": "2020-08-08T13:49:10.690+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10694228"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5810651",
+    "label": "Sem álcool",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-08T13:48:52.410+01:00",
+    "createdAt": "2020-08-08T13:48:52.407+01:00",
+    "meta": {
+      "createdAt": "2020-08-08T13:48:52.407+01:00",
+      "updatedAt": "2020-08-08T13:48:52.410+01:00",
+      "publishedAt": "2020-08-08T13:48:52.417+01:00",
+      "firstPublishedAt": "2020-08-08T13:48:52.417+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10694220"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5810644",
+    "label": "Sem água",
+    "url": "/#",
+    "primary": false,
+    "newWindow": false,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-08T13:48:04.654+01:00",
+    "createdAt": "2020-08-08T13:48:04.651+01:00",
+    "meta": {
+      "createdAt": "2020-08-08T13:48:04.651+01:00",
+      "updatedAt": "2020-08-08T13:48:04.654+01:00",
+      "publishedAt": "2020-08-08T13:48:04.661+01:00",
+      "firstPublishedAt": "2020-08-08T13:48:04.661+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10694204"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5810643",
+    "title": "O que é Ocerilmax",
+    "sectionId": "oquee",
+    "subtitle": "",
+    "background": "white",
+    "features": [
+      "5810642"
+    ],
+    "typeSb": "section_features",
+    "stackbitModelType": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-08T13:34:54.839+01:00",
+    "createdAt": "2020-08-08T13:34:34.756+01:00",
+    "meta": {
+      "createdAt": "2020-08-08T13:34:34.756+01:00",
+      "updatedAt": "2020-08-08T13:34:54.839+01:00",
+      "publishedAt": "2020-08-08T13:34:54.861+01:00",
+      "firstPublishedAt": "2020-08-08T13:34:34.768+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10693818"
+    },
+    "itemType": "266817",
+    "creator": {
+      "id": "14883",
+      "type": "account"
+    }
+  },
+  {
+    "id": "5680937",
+    "label": "Menarini Group",
+    "url": "https://www.menarini.com/",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-08-08T12:39:23.206+01:00",
+    "createdAt": "2020-07-23T15:24:16.072+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:16.072+01:00",
+      "updatedAt": "2020-08-08T12:39:23.206+01:00",
+      "publishedAt": "2020-08-08T12:39:23.221+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:16.083+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10691936"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680990",
+    "title": "Ocerilmax",
+    "palette": "blue",
+    "header": "5680986",
+    "footer": "5680984",
+    "stackbitFilePath": "site-metadata.json",
+    "stackbitModelType": "config",
+    "updatedAt": "2020-08-06T16:54:33.713+01:00",
+    "createdAt": "2020-07-23T15:24:24.049+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:24.049+01:00",
+      "updatedAt": "2020-08-06T16:54:33.713+01:00",
+      "publishedAt": "2020-08-06T16:54:33.735+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:24.070+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10655758"
+    },
+    "itemType": "266822",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5681006",
+    "label": "Get Started",
+    "url": "/signup",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-07-23T15:24:27.452+01:00",
+    "createdAt": "2020-07-23T15:24:27.448+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:27.448+01:00",
+      "updatedAt": "2020-07-23T15:24:27.452+01:00",
+      "publishedAt": "2020-07-23T15:24:27.464+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:27.464+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10367147"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680993",
+    "label": "Learn More",
+    "url": "/features",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-07-23T15:24:24.493+01:00",
+    "createdAt": "2020-07-23T15:24:24.490+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:24.490+01:00",
+      "updatedAt": "2020-07-23T15:24:24.493+01:00",
+      "publishedAt": "2020-07-23T15:24:24.501+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:24.501+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10367134"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680988",
+    "label": "Order Now",
+    "url": "/signup",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-07-23T15:24:23.736+01:00",
+    "createdAt": "2020-07-23T15:24:23.733+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.733+01:00",
+      "updatedAt": "2020-07-23T15:24:23.736+01:00",
+      "publishedAt": "2020-07-23T15:24:23.744+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.744+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10367129"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680981",
+    "label": "Get Started",
+    "url": "#",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-07-23T15:24:23.009+01:00",
+    "createdAt": "2020-07-23T15:24:23.006+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:23.006+01:00",
+      "updatedAt": "2020-07-23T15:24:23.009+01:00",
+      "publishedAt": "2020-07-23T15:24:23.017+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:23.017+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10367122"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680977",
+    "label": "Order Now",
+    "url": "/signup",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-07-23T15:24:22.108+01:00",
+    "createdAt": "2020-07-23T15:24:22.105+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:22.105+01:00",
+      "updatedAt": "2020-07-23T15:24:22.108+01:00",
+      "publishedAt": "2020-07-23T15:24:22.117+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:22.117+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10367118"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  },
+  {
+    "id": "5680976",
+    "label": "Learn More",
+    "url": "/features",
+    "primary": false,
+    "newWindow": true,
+    "typeSb": "action",
+    "cssStyle": "object",
+    "stackbitFieldNames": "{\n  \"type_sb\": \"type\"\n}",
+    "updatedAt": "2020-07-23T15:24:21.931+01:00",
+    "createdAt": "2020-07-23T15:24:21.928+01:00",
+    "meta": {
+      "createdAt": "2020-07-23T15:24:21.928+01:00",
+      "updatedAt": "2020-07-23T15:24:21.931+01:00",
+      "publishedAt": "2020-07-23T15:24:21.938+01:00",
+      "firstPublishedAt": "2020-07-23T15:24:21.938+01:00",
+      "publicationScheduledAt": null,
+      "status": "published",
+      "isValid": true,
+      "currentVersion": "10367117"
+    },
+    "itemType": "266803",
+    "creator": {
+      "id": "63742",
+      "type": "access_token"
+    }
+  }
+]
