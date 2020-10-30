@@ -123,3 +123,45 @@ window.onGatsbyRouteUpdate = function() {
   }
 
 };
+
+/* detect elements in vewport */
+ // Setup isScrolling variable
+ var isScrolling;
+
+ var elementos = ["oquee","comousar","quandousar","composicao"];
+
+ function verificaId(elem){
+   var element = document.getElementById(elem);
+   var position = element.getBoundingClientRect();
+
+   if(position.top < window.innerHeight && position.bottom >= 0) {
+     // var oldPositionTop = position.top;
+     // var oldPositionBottom = position.bottom;
+     // setTimeout(function(){
+     // var newPositionTop = position.top;
+     // var newPositionBottom = position.bottom;
+     // if(newPositionTop == oldPositionTop && newPositionBottom == oldPositionBottom) {
+     console.log(elem + ' is partially visible in screen');
+     // trigger Google Analytics Event
+     // ga('send', elem);
+     // }
+     // }, 500)
+   }
+ }
+
+ window.addEventListener('scroll', function() {
+ // Clear our timeout throughout the scroll
+   window.clearTimeout( isScrolling );
+
+   // Set a timeout to run after scrolling ends
+   isScrolling = setTimeout(function() {
+
+     for(i=0;i<elementos.length;i++) {
+       verificaId(elementos[i]);
+     }
+
+     // Run the callback
+     console.log( 'Scrolling has stopped.' );
+   // checking for partial visibility
+   }, 1000);
+ });
