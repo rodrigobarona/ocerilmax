@@ -127,21 +127,28 @@ window.onGatsbyRouteUpdate = function() {
 /* detect elements in vewport */
  // Setup isScrolling variable
  var isScrolling;
-
- var elementos = ["oquee","comousar","quandousar","composicao"];
+ var dict={"oquee":"o-que-e","comousar":"como-usar", "quandousar":"quando-usar","composicao":"composicao","hero":"hero-para-que-serve"};
+ var elementos = ["hero","oquee","cta_HPD","comousar","quandousar","composicao"];
+ var maisv = 0;
+ var elemmv = "";
 
  function verificaId(elem){
    var element = document.getElementById(elem);
    var position = element.getBoundingClientRect();
 
-   if(position.top < window.innerHeight && position.bottom >= 0) {
-     // var oldPositionTop = position.top;
-     // var oldPositionBottom = position.bottom;
-     // setTimeout(function(){
-     // var newPositionTop = position.top;
-     // var newPositionBottom = position.bottom;
-     // if(newPositionTop == oldPositionTop && newPositionBottom == oldPositionBottom) {
-     console.log(elem + ' is partially visible in screen');
+   console.log("elem: "+elem + " ptop: " + position.top + " pbottom: " + position.bottom + " wHeight: " + window.innerHeight + " eHeight: " + element.offsetHeight);
+   if(position.top >= 0 && position.bottom <= window.innerHeight){
+     console.log("full");
+     maisv = 100;
+     elemmv = elem;
+   }
+   else if(position.top < window.innerHeight && position.bottom >= 0) {
+     console.log("elem: "+elem+" %: "+((element.offsetHeight-Math.abs(position.top))*100)/element.offsetHeight);
+     if(((element.offsetHeight-Math.abs(position.top))*100)/element.offsetHeight > maisv ){
+       maisv = ((element.offsetHeight-Math.abs(position.top))*100)/element.offsetHeight;
+       elemmv = elem;
+     }
+     // console.log(elem + ' is partially visible in screen');
      // trigger Google Analytics Event
      // ga('send', elem);
      // }
@@ -155,12 +162,21 @@ window.onGatsbyRouteUpdate = function() {
 
    // Set a timeout to run after scrolling ends
    isScrolling = setTimeout(function() {
-
+     maisv = 0;
+     elemmv = "";
      for(i=0;i<elementos.length;i++) {
        verificaId(elementos[i]);
      }
 
      // Run the callback
+     console.log("Mais visivel: " + dict[elemmv] + " array: " + elemmv);
+     if (elemmv != "cta_HPD"){
+       console.log("nao é")
+     }
+     // dataLayer.push({
+     // 'event': 'website-change-page',
+     // 'vpvname': dict[elemmv];
+     // });
      console.log( 'Scrolling has stopped.' );
    // checking for partial visibility
    }, 1000);
