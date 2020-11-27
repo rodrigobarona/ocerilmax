@@ -174,7 +174,7 @@ window.onGatsbyRouteUpdate = function() {
      // }
      dataLayer.push({
        'event': 'website-change-page',
-       'vpvname': dict[elemmv];
+       'vpvname': dict[elemmv],
      });
      console.log( 'Scrolling has stopped.' );
    }, 1000);
