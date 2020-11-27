@@ -127,7 +127,7 @@ window.onGatsbyRouteUpdate = function() {
 /* detect elements in vewport */
  // Setup isScrolling variable
  var isScrolling;
- var dict={"oquee":"o-que-e","comousar":"como-usar", "quandousar":"quando-usar","composicao":"composicao","hero":"hero-para-que-serve"};
+ var dict={"oquee":"o-que-e","cta_HPD":"HPD","comousar":"como-usar", "quandousar":"quando-usar","composicao":"composicao","hero":"hero-para-que-serve"};
  var elementos = ["hero","oquee","cta_HPD","comousar","quandousar","composicao"];
  var maisv = 0;
  var elemmv = "";
@@ -168,16 +168,14 @@ window.onGatsbyRouteUpdate = function() {
        verificaId(elementos[i]);
      }
 
-     // Run the callback
      console.log("Mais visivel: " + dict[elemmv] + " array: " + elemmv);
-     if (elemmv != "cta_HPD"){
-       console.log("nao é")
-     }
-     // dataLayer.push({
-     // 'event': 'website-change-page',
-     // 'vpvname': dict[elemmv];
-     // });
+     // if (elemmv != "cta_HPD"){
+     //   console.log(dict[elemmv])
+     // }
+     dataLayer.push({
+       'event': 'website-change-page',
+       'vpvname': dict[elemmv];
+     });
      console.log( 'Scrolling has stopped.' );
-   // checking for partial visibility
    }, 1000);
  });
