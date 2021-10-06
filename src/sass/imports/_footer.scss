@@ -103,6 +103,22 @@
   text-align: center;
 }
 
+button#ot-sdk-btn.ot-sdk-show-settings {
+  color: #7b839e !important;
+  text-decoration: none;
+  -webkit-transition: border-color .15s ease-in-out, color .15s ease-in-out;
+  transition: border-color .15s ease-in-out, color .15s ease-in-out;
+  border: none;
+  background-color: transparent;
+  padding: 0;
+  font-size: 0.88889rem;
+  line-height: 1.5;
+}
+#ot-sdk-btn.ot-sdk-show-settings:hover {
+ background-color: transparent !important;
+ color: #ebecf0 !important;
+}
+
 @media only screen and (max-width: 800px) {
   .footer-branding {
     -webkit-flex: 0 0 100%;

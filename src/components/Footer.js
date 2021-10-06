@@ -40,6 +40,9 @@ export default class Footer extends React.Component {
                               <ActionLink {...this.props} action={action} />
                             </li>
                             ))}
+                            <!-- OneTrust Cookies Settings button start -->
+                             <li><button id="ot-sdk-btn" class="ot-sdk-show-settings">Cookie Settings</button></li>
+                            <!-- OneTrust Cookies Settings button end -->
                           </ul>
                         </div>
                         )}

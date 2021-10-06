@@ -5,6 +5,16 @@ export default function HTML(props) {
   return (
     <html {...props.htmlAttributes}>
       <head>        
+
+      <!-- OneTrust Cookies Consent Notice start for ocerilmax.pt -->
+      <script type="text/javascript" src="https://cdn.cookielaw.org/consent/f2d118a7-c7c8-427d-9f19-ec452a089386/OtAutoBlock.js" ></script>
+      <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="f2d118a7-c7c8-427d-9f19-ec452a089386" ></script>
+      <script type="text/javascript">
+      function OptanonWrapper() { }
+      </script>
+      <!-- OneTrust Cookies Consent Notice end for ocerilmax.pt -->
+
+
         {props.headComponents}
       </head>
       <body {...props.bodyAttributes}>
